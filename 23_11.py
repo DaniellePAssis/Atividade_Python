@@ -18,7 +18,7 @@ def contar_publicacoes(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
     numero_de_publicacoes = contar_publicacoes(nome_arquivo)
     
     if isinstance(numero_de_publicacoes, int):
@@ -43,7 +43,7 @@ def extrair_tags(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
     tags_encontradas = extrair_tags(nome_arquivo)
     
     if tags_encontradas:
@@ -79,8 +79,8 @@ def salvar_tags_em_arquivo(tags, nome_arquivo_saida):
         return f"Erro ao salvar as tags: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo_entrada = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo de entrada
-    nome_arquivo_saida = "Lista de tags.txt"  # Substitua com o nome do seu arquivo de saída
+    nome_arquivo_entrada = "folha8.OUT.txt"  
+    nome_arquivo_saida = "Lista de tags.txt"  
 
     tags_encontradas = extrair_tags(nome_arquivo_entrada)
 
@@ -119,7 +119,7 @@ def contar_ocorrencias_das_tags(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
 
     total_ocorrencias = contar_ocorrencias_das_tags(nome_arquivo)
 
@@ -129,20 +129,22 @@ if __name__ == "__main__":
         print(total_ocorrencias)
 
 
-#3.Extrair número das tags e de ocorrências das respectivas tags
+#3.Extrair ocorrências das respectivas tags em arquivo.txt
 
 import re
+from collections import Counter
 
-def contar_ocorrencias_das_tags(nome_arquivo):
+def contar_tags_com_conteudo(nome_arquivo):
     try:
         with open(nome_arquivo, 'r', encoding='utf-8') as arquivo:
             conteudo = arquivo.read()
-            padrao_tags = r'tag:\{\s*(\d+)\s*\}'
-            matches = re.findall(padrao_tags, conteudo)
-            
-            contagem_tags = {}
-            for numero in matches:
-                contagem_tags[numero] = contagem_tags.get(numero, 0) + 1
+
+            # Expressão regular mais geral para capturar tags com diversos conteúdos
+            padrao_tags = re.compile(r'tag:{(.*?)}')
+            tags_encontradas = padrao_tags.findall(conteudo)
+
+            # Usando Counter para contar a ocorrência de cada tag com mesmo conteúdo
+            contagem_tags = Counter(tags_encontradas)
 
             return contagem_tags
     except FileNotFoundError:
@@ -150,17 +152,31 @@ def contar_ocorrencias_das_tags(nome_arquivo):
     except Exception as e:
         return f"Ocorreu um erro: {str(e)}"
 
+def salvar_lista_tags(nome_arquivo_saida, contagem_tags):
+    try:
+        with open(nome_arquivo_saida, 'w', encoding='utf-8') as arquivo_saida:
+            for tag, quantidade in contagem_tags.items():
+                arquivo_saida.write(f"tag:{tag}: {quantidade}\n")
+        return f"Lista de tags salva em {nome_arquivo_saida}"
+    except Exception as e:
+        return f"Ocorreu um erro ao salvar a lista de tags: {str(e)}"
+
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo_entrada = "folha8.OUT.txt" 
+    nome_arquivo_saida = "Contagem_das_tags.txt"     
 
-    contagem_tags = contar_ocorrencias_das_tags(nome_arquivo)
+    contagem_tags = contar_tags_com_conteudo(nome_arquivo_entrada)
 
-    if contagem_tags:
-        print("Contagem de ocorrências por tag:")
-        for numero, ocorrencias in contagem_tags.items():
-            print(f"Tag: {numero}, Ocorrências: {ocorrencias}")
+    if isinstance(contagem_tags, Counter):
+        print("Contagem de tags com mesmo conteúdo:")
+        for tag, quantidade in contagem_tags.items():
+            print(f"tag:{tag}: {quantidade}")
+
+        resultado_salvar = salvar_lista_tags(nome_arquivo_saida, contagem_tags)
+        print(resultado_salvar)
     else:
-        print("Nenhuma tag encontrada no formato 'tag:{}' no arquivo.")
+        print(contagem_tags)
+
 
 
 #4.Extrair gamas de datas que constam no ficheiro, quando começam e terminam
@@ -182,7 +198,7 @@ def extrair_gamas_de_datas(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
 
     gamas_de_datas = extrair_gamas_de_datas(nome_arquivo)
 
@@ -193,7 +209,7 @@ if __name__ == "__main__":
     else:
         print("Nenhuma gama de datas encontrada no arquivo.")
 
-#Número de ocorÊncias formato dd/mm/aaaa
+#Número de ocorrÊncias formato dd/mm/aaaa
 
 import re
 
@@ -212,7 +228,7 @@ def extrair_gamas_de_datas(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
 
     gamas_de_datas = extrair_gamas_de_datas(nome_arquivo)
 
@@ -223,7 +239,7 @@ if __name__ == "__main__":
     else:
         print("Nenhuma gama de datas encontrada no arquivo.")
 
-#Número de ocorÊncias formato dd-mm-aaaa
+#Número de ocorrÊncias formato dd-mm-aaaa
 import re
 
 def extrair_gamas_de_datas(nome_arquivo):
@@ -241,7 +257,7 @@ def extrair_gamas_de_datas(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
 
     gamas_de_datas = extrair_gamas_de_datas(nome_arquivo)
 
@@ -253,7 +269,7 @@ if __name__ == "__main__":
         print("Nenhuma gama de datas encontrada no arquivo.")
 
 
-#Número de ocorÊncias formato dd/mm
+#Número de ocorrÊncias formato dd/mm
 
 import re
 
@@ -272,7 +288,7 @@ def extrair_gamas_de_datas(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
 
     gamas_de_datas = extrair_gamas_de_datas(nome_arquivo)
 
@@ -284,7 +300,7 @@ if __name__ == "__main__":
         print("Nenhuma gama de datas encontrada no arquivo.")
 
 
-#Número de ocorÊncias de #DATE:
+#Número de ocorrências de #DATE:
 def contar_ocorrencias_date(nome_arquivo):
     try:
         with open(nome_arquivo, 'r', encoding='utf-8') as arquivo:
@@ -297,7 +313,7 @@ def contar_ocorrencias_date(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
 
     total_ocorrencias_date = contar_ocorrencias_date(nome_arquivo)
 
@@ -323,7 +339,7 @@ def contar_palavras(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
 
     total_palavras = contar_palavras(nome_arquivo)
 
@@ -356,7 +372,7 @@ def contar_pontuacoes(nome_arquivo):
         return f"Ocorreu um erro: {str(e)}"
 
 if __name__ == "__main__":
-    nome_arquivo = "folha8.OUT.txt"  # Substitua com o nome do seu arquivo .txt
+    nome_arquivo = "folha8.OUT.txt"  
 
     contagem_pontuacoes = contar_pontuacoes(nome_arquivo)
 

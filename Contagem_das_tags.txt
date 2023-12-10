@@ -1,0 +1,4960 @@
+tag:Apreensão: 5
+tag:Droga: 5
+tag:EUA: 179
+tag:São Tomé e Príncipe: 4
+tag:narcotráfico: 5
+tag:Sonangol: 277
+tag:coreia do sul: 6
+tag:petroleiros: 3
+tag:Angola: 2476
+tag:Desalojados: 6
+tag:chuvas: 10
+tag:zaire: 1
+tag:2014: 13
+tag:Aqui falo eu: 26
+tag:Corrupção: 467
+tag:MPLA: 2176
+tag:baderna: 2
+tag:balanço: 40
+tag:Petróleo: 385
+tag:Receitas: 43
+tag:crise: 448
+tag:Eduardo dos Santos: 646
+tag:mensagem: 16
+tag:preços: 30
+tag:Aviação: 10
+tag:Boeing 777-300ER: 1
+tag:Companhia de bandeira: 3
+tag:TAAG: 42
+tag:Luanda: 449
+tag:congresso: 47
+tag:milhões: 62
+tag:Doença do sono: 2
+tag:combate: 28
+tag:Crianças: 100
+tag:Nações Unidas: 21
+tag:ONU: 167
+tag:Orfãos: 3
+tag:UNICEF: 29
+tag:África: 259
+tag:Ébola: 45
+tag:produção: 86
+tag:mulheres: 25
+tag:ocde: 3
+tag:violência doméstica: 1
+tag:Defesa: 34
+tag:OGE: 148
+tag:Segurança: 50
+tag:Cabo-Verde: 78
+tag:Poliomielite: 9
+tag:vacinação: 23
+tag:BAD: 8
+tag:Democracia: 155
+tag:Ban Ki-moon: 5
+tag:SIDA: 18
+tag:Acampamento: 1
+tag:Luanfa: 1
+tag:“merican English Experience: 1
+tag:Acordo ortográfico: 3
+tag:CPLP: 110
+tag:IILP: 1
+tag:Moçambique: 164
+tag:Adeptos: 2
+tag:Alexandre Grasseli: 2
+tag:Girabola: 18
+tag:Petro de Luanda: 4
+tag:Comércio informal: 2
+tag:Governador: 42
+tag:Zungueiras: 12
+tag:Aterro: 2
+tag:Aterro Sanitário: 2
+tag:Emanuel Garrudo: 2
+tag:Huambo: 95
+tag:Saúde Pública: 8
+tag:Emília Pires: 2
+tag:Timor Leste: 40
+tag:julgamento: 162
+tag:ministra das finanças: 2
+tag:Diamantes de Sangue: 3
+tag:Rafael Marques: 84
+tag:generais: 35
+tag:regime: 2110
+tag:ADI: 5
+tag:Acção Democrática Independente: 2
+tag:Patrice Trovoada: 7
+tag:ADRA: 4
+tag:Agricultura familiar: 4
+tag:Apoios: 66
+tag:Camponeses: 2
+tag:ONG: 15
+tag:Desenvolvimento Rural: 2
+tag:Maria Lassaleti: 2
+tag:Livro: 82
+tag:direito: 16
+tag:manuel da silva: 2
+tag:Guiné-Bissau: 72
+tag:Medicamentos: 29
+tag:afectos com letras: 1
+tag:Clima: 8
+tag:Manuel Vicente: 110
+tag:Seca: 26
+tag:Afonso Dhlakama. Filipe Nyusi: 2
+tag:Frelimo: 98
+tag:MDM: 20
+tag:Renamo: 91
+tag:Europa: 100
+tag:escravatura: 14
+tag:Ásia: 3
+tag:Brasil: 110
+tag:Cultura: 88
+tag:Lusofonia: 106
+tag:AFRICOM: 5
+tag:Cooperação: 69
+tag:David Rodriguez: 2
+tag:CACL: 2
+tag:Comissão Administrativa da Cidade de Luanda: 2
+tag:José Tavares Ferreira: 2
+tag:Administrador Municipal de Viana: 1
+tag:Administração municipal: 3
+tag:Agostinho Neto: 59
+tag:Manuel Mateus Caterça: 1
+tag:Problemas do povo: 1
+tag:Agricultura: 44
+tag:Agro-indústria: 2
+tag:Indústria: 11
+tag:Kiala Gabriel: 2
+tag:Sementes: 2
+tag:Kiala Ngone Gabriel: 2
+tag:Portugal: 557
+tag:Armando Manuel: 9
+tag:Combustível: 4
+tag:Contrabando: 7
+tag:Custo de vida: 4
+tag:Guiné Equatorial: 62
+tag:Luís amado: 3
+tag:Maputo: 8
+tag:Paris: 18
+tag:air france: 1
+tag:klm: 1
+tag:voos: 15
+tag:Ilha do fogo: 5
+tag:uccla: 13
+tag:vulcão: 6
+tag:Paulo Alves: 1
+tag:Pré-fabricados: 3
+tag:Transcoura: 1
+tag:Alemanha: 11
+tag:Saúde: 161
+tag:alfândegas: 2
+tag:oma: 8
+tag:Educação: 38
+tag:despesas: 28
+tag:Américo Amorim: 3
+tag:Banca: 29
+tag:Banco BIC: 2
+tag:Fernando Teles: 3
+tag:Isabel dos Santos: 277
+tag:Amílcar Cabral: 3
+tag:CIDAC: 2
+tag:Guiné: 4
+tag:Os Movimentos de Libertação e o 25 de Abril: 2
+tag:PAIGC: 8
+tag:Anadia: 2
+tag:Baja TT Rotas do Douro: 2
+tag:Desporto Automóvel: 2
+tag:Palanca Motorsport: 2
+tag:Todo-o-terreno: 2
+tag:Independência: 76
+tag:eugénio costa almeira: 2
+tag:pululu: 2
+tag:RDC: 2
+tag:África do Sul: 32
+tag:seres humanos: 2
+tag:tráfico: 9
+tag:Código Penal: 12
+tag:Justiça: 138
+tag:Raul Araújo: 4
+tag:Probidade: 26
+tag:exemplo: 10
+tag:Empresários: 32
+tag:França: 26
+tag:acordo: 30
+tag:Vistos: 16
+tag:Direitos Humanos: 138
+tag:Rui Mangueira: 17
+tag:Suíça: 16
+tag:Governo: 246
+tag:Opus Dei. Portugal: 2
+tag:privatizações: 2
+tag:liberdade religiosa: 1
+tag:relatório: 39
+tag:CAN 2015: 6
+tag:fafa: 2
+tag:marrocos: 5
+tag:IIGA: 3
+tag:Índice Ibrahim de Boa Governação Africana: 6
+tag:Desenvolvimento: 30
+tag:Investimento: 47
+tag:Logística: 2
+tag:Plataformas Logísticas: 4
+tag:bandeira: 10
+tag:hino: 6
+tag:símbolos: 4
+tag:zimbo: 1
+tag:bancos: 58
+tag:rendimento: 2
+tag:Cães: 25
+tag:Fome: 206
+tag:Kundy Paihama: 4
+tag:acnur: 10
+tag:asilo: 3
+tag:refugiados: 30
+tag:branqueamento: 35
+tag:vistos gold: 3
+tag:Angola Open: 2
+tag:Barra do Kwanza: 2
+tag:Golf: 2
+tag:Gonçalves Muandumba: 2
+tag:Mangais: 2
+tag:PGA: 2
+tag:Profissional Golf Association: 2
+tag:Apolinário Correia: 2
+tag:Francis Gurry: 2
+tag:Marcas: 2
+tag:OMPI: 2
+tag:Patentes: 2
+tag:Propriedade Intelectual: 4
+tag:2015: 11
+tag:dakar: 2
+tag:rali: 2
+tag:Lisboa: 79
+tag:promessas: 210
+tag:smakuva: 4
+tag:BFA: 20
+tag:BNA: 79
+tag:BPI: 34
+tag:Fernando Ulrich: 9
+tag:Conselho de Segurança da ONU: 2
+tag:má nutrição: 1
+tag:nanismo: 1
+tag:Academia Sporting: 2
+tag:Bruno de Carvalho: 4
+tag:Francisco Viana: 2
+tag:presidente da Parkgest e do Fundo Viana: 2
+tag:caso suspeito: 1
+tag:freira: 3
+tag:EFACEC: 18
+tag:Energia: 21
+tag:Lucros: 31
+tag:cobrança de impostos: 1
+tag:fiscal: 3
+tag:angop: 9
+tag:aniversário: 30
+tag:estado: 54
+tag:informação: 10
+tag:Anselmo Ralph: 1
+tag:DVD: 3
+tag:dez anos: 1
+tag:festa: 12
+tag:Antibióticos: 2
+tag:Charles Bailey: 2
+tag:Journal of the Medical American Association: 2
+tag:Obesidade: 2
+tag:Saúde Infantil: 3
+tag:Bié: 12
+tag:Comarcas: 4
+tag:Construção: 10
+tag:Ministro: 83
+tag:Cipriano Cassamá: 4
+tag:guiné-bissau. jornalistas: 1
+tag:liberdade: 220
+tag:Contratos: 10
+tag:Domingos Simões Pereira: 10
+tag:Orçamento: 12
+tag:Falsificação: 4
+tag:Xanana Gusmão: 16
+tag:expulsão: 18
+tag:magistrados: 10
+tag:Arktec: 1
+tag:formação: 14
+tag:Arte lusófona: 2
+tag:Artes Plásticas: 13
+tag:Exposição: 12
+tag:SRS Advogados: 2
+tag:Guilherme Kianiaki: 1
+tag:INE Garcia Neto: 1
+tag:Palestra: 2
+tag:Pintura: 5
+tag:Paulo Afonso: 2
+tag:Hilberto Ganga: 1
+tag:ugp: 4
+tag:Acessores: 2
+tag:António Manuel Gamboa Vieira Lopes: 2
+tag:Cilada: 2
+tag:Presidente da República: 9
+tag:Promoção: 2
+tag:Mário Soares: 9
+tag:bandalhos: 2
+tag:carlos alexandre: 4
+tag:josé sócratas: 2
+tag:Atanagildo Paulo: 2
+tag:Literatura: 42
+tag:Prazer Veneno: 2
+tag:FAA: 62
+tag:General Nunda: 14
+tag:Proença de carvalho: 2
+tag:josé sócrates: 14
+tag:enteados: 2
+tag:filhos: 14
+tag:william tonet: 62
+tag:China: 108
+tag:exportações: 35
+tag:quebra: 25
+tag:1º de Agosto: 4
+tag:Desporto: 10
+tag:Taça de Angola: 4
+tag:Tiro: 4
+tag:Atlas Copco: 2
+tag:Atlas Copco Angola: 2
+tag:Novas instalações: 2
+tag:Viana: 3
+tag:Congo: 19
+tag:Grandes Lagos: 4
+tag:Militares: 109
+tag:TAP: 11
+tag:Voo: 2
+tag:Financiamento: 30
+tag:Contos: 2
+tag:União dos Escritores Angolanos: 2
+tag:Banco Nacional de Angola: 2
+tag:Divisas: 73
+tag:Economia: 391
+tag:juros: 8
+tag:Banco Mundial: 17
+tag:Caju: 2
+tag:Castanha de caju: 2
+tag:Aniceto Bila: 2
+tag:Call Center: 2
+tag:Língua portuguesa: 2
+tag:bancos comerciais: 1
+tag:depósitos: 1
+tag:garantia: 1
+tag:bank of áfrica: 1
+tag:Isaías Samakuva: 14
+tag:Marcos Barrica: 12
+tag:UNITA: 440
+tag:Ensino Superior: 21
+tag:ISCSP: 2
+tag:Instituto Superior de Ciências Sociais e Políticas: 2
+tag:José Marcos Barrica: 2
+tag:Universidade de Lisboa: 2
+tag:Jornal de Angola: 62
+tag:bajulação: 179
+tag:durão barroso: 3
+tag:Benguela: 45
+tag:ginástica: 4
+tag:BES: 47
+tag:BESA: 73
+tag:samakuva: 79
+tag:burla: 7
+tag:desvios: 13
+tag:ilegalidades: 6
+tag:ana gomes: 26
+tag:ricardo salgado: 4
+tag:Álvaro sobrinho: 14
+tag:ESCOM: 3
+tag:Fisco: 6
+tag:EMEA Finance: 2
+tag:Melhor Banco em Angola: 2
+tag:Boavida Neto: 3
+tag:terrenos: 25
+tag:venda ilegal: 1
+tag:Malária: 56
+tag:bill gates: 2
+tag:países pobres: 4
+tag:Bill & Melinda Gates Foundation: 2
+tag:Doenças tropicais: 3
+tag:OMS: 49
+tag:Organização Mundial de Saúde: 4
+tag:CEAST: 13
+tag:bispos: 13
+tag:injustiças: 19
+tag:ébola. ONU: 1
+tag:bissau: 23
+tag:apoio: 78
+tag:empresas: 54
+tag:Boletins de voto: 2
+tag:Manica: 2
+tag:Polícia: 160
+tag:arranque: 1
+tag:bolsa de valores: 2
+tag:Bolsa olímpica: 2
+tag:Fátima Faia: 2
+tag:Jogos Olímpicos: 6
+tag:Judo: 2
+tag:Bolsas Mandela. Washington Fellowship: 1
+tag:EUA. Angola: 1
+tag:Bolseiros: 10
+tag:Litis Petróleo Company: 1
+tag:Bosch: 1
+tag:Botsuana: 1
+tag:oleoduto: 1
+tag:massacres: 31
+tag:desigualdades: 4
+tag:petrobras: 7
+tag:rodrigo janot: 1
+tag:Celso Malavoloneke: 2
+tag:Higino Carneiro: 27
+tag:Blaise Compaore: 7
+tag:burkina faso: 14
+tag:ditadura: 322
+tag:revolta: 56
+tag:extradição: 1
+tag:técnicos: 9
+tag:Cabinda: 235
+tag:denúncias: 10
+tag:omungua: 2
+tag:água imprópria: 3
+tag:Lândana: 2
+tag:electricidade: 46
+tag:escuras: 5
+tag:27 de maio: 41
+tag:José Ribeiro: 32
+tag:Raúl Danda: 13
+tag:jamba: 4
+tag:Adriano Moreira: 3
+tag:cabindas: 5
+tag:direitos: 47
+tag:manifestação: 94
+tag:angola telecom: 5
+tag:cabines telefónicas: 1
+tag:Plataforma continental: 2
+tag:Casa-CE: 175
+tag:Caça às bruxas: 5
+tag:Francisco Kandjamba: 2
+tag:Namibe: 15
+tag:Valentino Eduardo Calenga: 2
+tag:Cachupa: 2
+tag:Funje: 2
+tag:Konde: 2
+tag:Música: 23
+tag:Rey Weba: 2
+tag:Walter Ananás: 2
+tag:AI: 2
+tag:Amnistia Internacional: 40
+tag:Exportação: 20
+tag:Tortura: 19
+tag:Imprensa. Folha8: 1
+tag:Conselho de Segurança: 16
+tag:membro: 2
+tag:centro cultural português: 2
+tag:curtas metragens: 2
+tag:Eleições: 612
+tag:José Maria Neves: 10
+tag:liderança: 18
+tag:paicv: 7
+tag:Candidatura: 8
+tag:Mbanza Congo: 12
+tag:património mundial: 4
+tag:unescp: 2
+tag:Rio de Janeiro: 2
+tag:canoagem: 2
+tag:Paços de Ferreira: 3
+tag:missão empresarial: 1
+tag:móveis: 1
+tag:capoeira: 2
+tag:humanidade: 26
+tag:património: 14
+tag:Futebol: 30
+tag:Gana: 2
+tag:Seleccionador: 4
+tag:Carlos Feijó: 2
+tag:alexandre sebastião andré: 1
+tag:inabe: 1
+tag:Jornalistas: 104
+tag:cada de imprensa: 2
+tag:suspeita: 2
+tag:Cavaco Silva: 12
+tag:felicitações: 5
+tag:Armando Guebuza: 8
+tag:condecoração: 3
+tag:5 de Outubro: 2
+tag:Dia da República: 2
+tag:António Ole: 6
+tag:Documentário: 3
+tag:Escultura: 4
+tag:Fotografia: 6
+tag:Chá de Caxinde: 3
+tag:delinquência juvenil: 2
+tag:Fidel Castro: 11
+tag:prémio: 48
+tag:comércio: 25
+tag:chineses: 14
+tag:concorrência: 6
+tag:Macau: 8
+tag:Miguel Frasquilho: 1
+tag:Comida: 17
+tag:Joaquim Chissano: 6
+tag:cidade mais cara.Luanda: 2
+tag:garimpo: 12
+tag:mortos: 62
+tag:Cinema: 8
+tag:Câmara Municipal do Porto: 1
+tag:Fare Network: 1
+tag:Porto: 44
+tag:Rivoli Teatro Municipal: 1
+tag:SOS Racismo: 1
+tag:Cinema móvel: 2
+tag:Instituto Angolano de Cinema Audiovisual e Multimédia: 2
+tag:Cipro-Group: 1
+tag:ana paula dos santos: 3
+tag:inauguração: 9
+tag:apresentação: 14
+tag:circo: 4
+tag:Kuando Kubango: 7
+tag:menongue: 1
+tag:CNE: 160
+tag:2017: 24
+tag:Código Civil: 2
+tag:Reforma: 12
+tag:Regime Colonial: 2
+tag:Alves Kamulingue: 8
+tag:Associação angolana "Mãos Livres": 2
+tag:David Mendes: 7
+tag:activista: 20
+tag:agressão: 11
+tag:Comando: 3
+tag:Comissário-chefe: 2
+tag:Polícia Nacional: 6
+tag:Salvador José Rodrigues: 2
+tag:cachiungo: 2
+tag:dipanda: 4
+tag:carlos veloso: 2
+tag:pam: 5
+tag:Ciclo: 2
+tag:Conferência: 10
+tag:Debates: 12
+tag:fc porto: 8
+tag:pinto da costa: 8
+tag:visita: 54
+tag:Dinheiro: 74
+tag:projectos: 20
+tag:angosat: 22
+tag:satélite: 26
+tag:liberdade de imprensa: 6
+tag:acusações: 42
+tag:línguas nacionais: 4
+tag:costa domarfim: 1
+tag:exíli: 1
+tag:Comunicação Social: 18
+tag:Media angolana: 3
+tag:Pedro Camelo: 2
+tag:Instituto Camões: 2
+tag:PCP: 24
+tag:Pravda: 37
+tag:muro de berlim: 1
+tag:pesquisa.hidrocarbonetos: 1
+tag:Apolónio Graciano: 4
+tag:bento XVI: 3
+tag:construção civil: 9
+tag:CGE: 2
+tag:Conselho de Ministros: 2
+tag:Conta Geral do Estado: 2
+tag:contas públicas: 1
+tag:défice: 8
+tag:contestação: 5
+tag:golpe: 41
+tag:purga: 10
+tag:CONDIS: 7
+tag:Continente: 13
+tag:Hipermercados: 8
+tag:SONAE: 20
+tag:contracepção: 1
+tag:Kim Jong-un: 4
+tag:Vladimir Putin: 3
+tag:Forças Armadas: 24
+tag:Giogio Di Pietrogiacomo: 2
+tag:Itália: 12
+tag:Armamento: 3
+tag:Coreia do Norte: 33
+tag:Mísseis: 2
+tag:Nuclear: 3
+tag:Arte contemporânea: 2
+tag:ENSA- Seguros de Angola: 2
+tag:Fineza Teta: 2
+tag:Francisco Van-Dúnem: 2
+tag:Jorge Gumbe: 2
+tag:Marco Kabenda: 2
+tag:Faustino Aires dos Reis: 2
+tag:Paulo Morais: 17
+tag:transparência internacional: 3
+tag:desenvolvidos: 2
+tag:países: 6
+tag:políticos: 18
+tag:subornos: 4
+tag:transparência: 25
+tag:Boa governação: 12
+tag:Costa do Marfim: 10
+tag:Georges Chikoti: 17
+tag:creches: 1
+tag:crianças desprotegidas: 1
+tag:natal: 25
+tag:Banco Africano do Desenvolvimento: 2
+tag:Cristina Duarte: 2
+tag:Cuba: 30
+tag:presos políticos: 5
+tag:Associação da Comunidade dos Cubanos Residentes em Angola: 2
+tag:Cubanos: 14
+tag:Gisela Beatriz Garcia Rivera: 2
+tag:Patriotismo: 4
+tag:Acesso à Saúde: 3
+tag:Huíla: 14
+tag:Missão: 4
+tag:RCA: 4
+tag:República Centro Africana: 4
+tag:Direitos de autor: 2
+tag:curiosidades: 3
+tag:portal: 3
+tag:OPA: 25
+tag:oi: 21
+tag:pt: 27
+tag:PS: 39
+tag:detenção: 11
+tag:accionistas: 2
+tag:assembleia-geral: 2
+tag:11 de novembro: 2
+tag:personalidade do ano: 3
+tag:time: 2
+tag:défice público: 2
+tag:Hong Kong: 7
+tag:Manifestações: 38
+tag:pró-democracia: 4
+tag:repressão: 68
+tag:Monsanto: 1
+tag:negócios: 65
+tag:transgénicos: 1
+tag:miséria: 95
+tag:povo: 165
+tag:Parlamento: 89
+tag:audições: 1
+tag:inquérito: 7
+tag:Benfica: 4
+tag:Liga portuguesa de Clubes: 4
+tag:Savimbi: 56
+tag:sipaios: 23
+tag:desarmamento: 4
+tag:Autarquias: 20
+tag:Bornito de Sousa: 29
+tag:Desconcentração: 2
+tag:Presidente: 142
+tag:Educação Patriótica: 13
+tag:Geraldo Sachipengo Nunda: 6
+tag:detido: 17
+tag:culto: 17
+tag:personalidade: 7
+tag:Marcolino Moço: 41
+tag:jovens: 59
+tag:DW: 3
+tag:Deutsche Welle: 2
+tag:Rádio: 7
+tag:Afonso Dhlakama: 9
+tag:Dhlakama: 4
+tag:Eleições Moçambique: 8
+tag:Dia Internacional do idoso: 2
+tag:Velhos: 2
+tag:Diamantes: 75
+tag:Processo Kimberley: 2
+tag:sangue: 15
+tag:Catoca: 2
+tag:Produção diamantífera: 2
+tag:Aécio Neves: 3
+tag:Dilma Rousseff: 9
+tag:Aécio: 2
+tag:Dilma: 7
+tag:Marina: 4
+tag:Marina Silva: 4
+tag:reeleição: 3
+tag:comissão de inquérito: 1
+tag:mariana mortágua: 1
+tag:Sílvio Franco Burity: 2
+tag:negociatas: 44
+tag:Carlos Teixeira. UAN: 1
+tag:direitos humasnos: 1
+tag:ensino: 14
+tag:pedagogia: 1
+tag:Rui Machete: 15
+tag:Bento Bembe: 16
+tag:união africana: 7
+tag:Firmino Tula: 1
+tag:disco: 1
+tag:erros: 4
+tag:Violência: 47
+tag:PIB: 27
+tag:dívida pública: 14
+tag:Ballantine's: 2
+tag:DJ: 2
+tag:DJ Paulo Alves: 2
+tag:Música electrónica: 2
+tag:Sê tu Mesmo. Deixa a tua Marca: 2
+tag:Artistas Plásticos: 2
+tag:Encontro literário: 2
+tag:Escritores: 19
+tag:Poetas: 4
+tag:Dolly Menga: 2
+tag:FAF: 4
+tag:Romeu Filemon: 2
+tag:ErnestoLara Filho: 1
+tag:escritor: 9
+tag:poeta: 1
+tag:Momade Bachir Sulemane: 1
+tag:rapto: 2
+tag:Mia Couto: 12
+tag:Emissões em português: 1
+tag:Voz da Alemanha: 1
+tag:Cadáveres: 2
+tag:Serra Leoa: 3
+tag:Vírus: 12
+tag:Guiné-Conacri: 2
+tag:Mali: 1
+tag:epidemia: 22
+tag:África Subsaariana: 2
+tag:pobres: 96
+tag:Desmond Tutu: 3
+tag:cataunha: 2
+tag:lobo antunes: 2
+tag:industrialização: 3
+tag:pobreza: 37
+tag:derrota: 18
+tag:gabão: 2
+tag:editorial: 6
+tag:imprensa: 66
+tag:racismo: 22
+tag:ódio: 2
+tag:Brigadeiro: 3
+tag:Homicídio: 2
+tag:José Eduardo dos Santos: 20
+tag:Nelson Mandela: 17
+tag:estadista: 4
+tag:renome: 2
+tag:Eugénio Costa Almeida: 10
+tag:Sucessor: 2
+tag:Filipe Nyusi. Eduardo dos Santos: 2
+tag:Egídio Sousa Santos: 2
+tag:Edward Snowden: 2
+tag:Nobel Alternativo 2014: 2
+tag:Prémio de direitos humanos: 2
+tag:família dos santos: 2
+tag:fundo soberano: 38
+tag:salvação: 4
+tag:Economist Intelligence Unit: 3
+tag:Virgílio de Fontes Pereira: 2
+tag:eleições autárquicas. angola: 2
+tag:Eleição Regional: 2
+tag:Eleições autárquicas: 7
+tag:Eleições legislativas: 3
+tag:críticas: 48
+tag:joão pinto: 17
+tag:Dia Mundial do Professor: 2
+tag:Irina Bokova: 4
+tag:Professores: 20
+tag:Unesco: 10
+tag:casimiro congo: 6
+tag:debate: 52
+tag:acusação: 24
+tag:repórteres sem fronteitas: 2
+tag:Kundi Paihama: 14
+tag:antigos combatentes: 1
+tag:assassinato: 15
+tag:carlos cardoso: 7
+tag:jornalismo: 30
+tag:Angonabeiro: 1
+tag:Liangol: 1
+tag:café: 10
+tag:venda: 23
+tag:Nersan: 2
+tag:santarém: 2
+tag:desigualdades sociais: 1
+tag:desinvestimento: 2
+tag:fiscalidade: 3
+tag:impostos: 30
+tag:aler: 1
+tag:associação: 4
+tag:energias renováveis: 1
+tag:Graça Machel: 2
+tag:Alerta: 4
+tag:Bilhete de identidade: 4
+tag:Kwanza sul: 8
+tag:juiz: 23
+tag:tribunal constitucional: 32
+tag:ctt: 1
+tag:semapa: 1
+tag:Passos Coelho: 14
+tag:Tecnoforma: 3
+tag:Narciso Benedito: 1
+tag:escola à distância: 1
+tag:escom. besa: 2
+tag:apelo: 20
+tag:papa francisco: 11
+tag:religiões: 3
+tag:Militantes: 21
+tag:anedota: 12
+tag:aquicultura: 1
+tag:Luís Vaz Martins: 1
+tag:estabilidade: 3
+tag:António Panguila: 2
+tag:Biocom: 3
+tag:embarcações: 3
+tag:estaleiros: 3
+tag:pesca artesanal: 1
+tag:General Baltazar Diogo: 2
+tag:Alimentos: 20
+tag:Doação: 6
+tag:Empresas portuguesas: 1
+tag:Let's Continue to Give: 1
+tag:Global Terrorism Index: 1
+tag:londres: 14
+tag:terrorismo: 54
+tag:CIA: 5
+tag:al-qaeda: 3
+tag:Coimbra: 8
+tag:Cursos: 2
+tag:Estudantes: 22
+tag:Universidade: 12
+tag:compra: 14
+tag:Estrangeiros expulsos: 1
+tag:SME: 2
+tag:Serviço de Migração e Estrangeiros: 2
+tag:general kangamba: 1
+tag:perseguição: 9
+tag:Projectos sociais: 2
+tag:Fundo de Democracia e Direitos Humanos: 2
+tag:Eugénio Vale Neto: 1
+tag:dívida: 18
+tag:Imigrantes: 7
+tag:cerimónias: 3
+tag:kim jong-il: 1
+tag:BD: 13
+tag:FNLA: 43
+tag:Miguel Macedo: 4
+tag:deputado: 12
+tag:psd: 29
+tag:Simone Gbagbo: 1
+tag:julgamento. tpi: 1
+tag:rei-presidente: 2
+tag:propaganda: 70
+tag:Dalila Mateus: 1
+tag:escritora: 3
+tag:falecimento: 5
+tag:Quirima: 2
+tag:circulação: 4
+tag:malange: 2
+tag:pontes: 2
+tag:acordo de alvor: 2
+tag:Folha 8: 61
+tag:SINSE: 2
+tag:arguido: 1
+tag:Hospital Neves Bendinha: 1
+tag:Médicos: 20
+tag:queimados: 1
+tag:famílias expulsas: 2
+tag:salinas: 2
+tag:fao: 10
+tag:Belas Shopping: 2
+tag:Feira do Livro: 2
+tag:Livros: 18
+tag:FPF: 2
+tag:Fernando Santos: 2
+tag:festafilm: 1
+tag:francofonia: 1
+tag:Luísa Rogério: 5
+tag:Reginaldo Silva: 1
+tag:jacarés: 4
+tag:Final da Taça: 2
+tag:Portugal. candidatos: 1
+tag:Prémio literário Fernando Namora: 1
+tag:flec/fac: 5
+tag:flec: 92
+tag:Daniel Kablan Duncan: 1
+tag:floresta: 1
+tag:Lobitino Almeida N'gola: 2
+tag:poema: 2
+tag:Ruben Sicato: 2
+tag:harmonização: 1
+tag:língua bantu: 1
+tag:Bélgica: 4
+tag:Frango: 5
+tag:ISV: 2
+tag:Instituto dos Serviços de Veterinária: 2
+tag:Pluvera: 5
+tag:Salmonela: 4
+tag:Reestruturação: 13
+tag:Homenagem: 24
+tag:bonga: 9
+tag:Raul Domingos: 1
+tag:Nampula: 1
+tag:Jonas Savimbi: 15
+tag:Beira: 1
+tag:fraude: 125
+tag:saneamento: 10
+tag:água: 33
+tag:Espaço Chá de Caxinde: 2
+tag:Gabriel Tchiema: 2
+tag:Tito Paris: 2
+tag:diamantes de sengue: 2
+tag:Bento Kangamba: 5
+tag:Francisco Louçã: 3
+tag:esquemas: 2
+tag:Campeonato do Mundo de rítmica colectiva: 2
+tag:FAG: 2
+tag:Ginastica rítmica: 2
+tag:Istambul: 2
+tag:Semba Miguel: 2
+tag:Turquia: 9
+tag:Combate à pobreza: 2
+tag:redução de apoios: 2
+tag:barragens: 18
+tag:marisco: 3
+tag:Tete: 2
+tag:incidentes: 6
+tag:ganga: 10
+tag:guarda presidencial: 5
+tag:Oferta: 1
+tag:Sarampo: 6
+tag:Vacinas: 32
+tag:Augusto da Silva Cunha: 2
+tag:Gugu: 2
+tag:SLB: 2
+tag:José Mário Vaz: 10
+tag:audiência: 3
+tag:companhia aérea: 1
+tag:ajuda: 53
+tag:alunos: 12
+tag:Grecima: 2
+tag:comunicação: 8
+tag:marketing: 6
+tag:Kero: 2
+tag:história: 44
+tag:Basquetebol: 8
+tag:Basquetebol Feminino: 2
+tag:Mulher: 14
+tag:FAP: 4
+tag:Hóquei em patins: 4
+tag:Patrícia Costa: 2
+tag:HRW: 17
+tag:Humans Rights Watch: 3
+tag:Teodoro Obiang: 7
+tag:Censo: 4
+tag:Lubango: 5
+tag:população: 22
+tag:chile: 2
+tag:ignorância: 24
+tag:interesses: 18
+tag:casimiro congo.igreja católica: 1
+tag:FESA: 4
+tag:Inspector nacional da Saúde: 2
+tag:Miguel Oliveira: 2
+tag:UAN: 5
+tag:engenharia informática: 1
+tag:seminário: 3
+tag:exterior: 3
+tag:imagem: 6
+tag:detidos: 32
+tag:rd congo: 25
+tag:Maria Luís Albuquerque: 1
+tag:Orçamento de Estado: 1
+tag:Francisco Lopes Afonso “Hanga”: 1
+tag:imprensa militar: 1
+tag:amotinados: 2
+tag:cadeia de luanda: 2
+tag:incêndio: 6
+tag:Pedro Nambongue Chissanga: 2
+tag:Director: 13
+tag:Innovation Makers: 2
+tag:Tecnologia: 8
+tag:Insegurança: 4
+tag:situação do país: 1
+tag:Bioenergia: 1
+tag:PALOP: 14
+tag:Iracelma Major: 2
+tag:Portugal telecom: 2
+tag:zopt: 2
+tag:Terra Peregrin: 5
+tag:Rainha: 6
+tag:Jacob Zuma: 4
+tag:JMPLA: 5
+tag:Líder: 12
+tag:Tomás Bica: 2
+tag:casinos: 3
+tag:jogos: 3
+tag:regulamentação: 3
+tag:jorge sampaio: 4
+tag:Prémios: 18
+tag:fraude fiscal: 1
+tag:confederação: 2
+tag:jovens empresários: 2
+tag:Jovesns: 2
+tag:medo: 56
+tag:jpa: 1
+tag:laurinda gouveia: 4
+tag:Ana Vidigal: 1
+tag:Jugular: 1
+tag:juristas: 3
+tag:Carmelita pires: 2
+tag:Carlos Manuel: 2
+tag:Juventude: 10
+tag:Juventude Patriótica Lunda Tchokwe: 2
+tag:Rocha Lunga Umue: 2
+tag:Cassule: 1
+tag:Kamulingue: 1
+tag:Maka Angola: 3
+tag:Rafael Marques de Morais: 1
+tag:kangamba: 35
+tag:capitais: 21
+tag:lavagem: 12
+tag:despejos: 1
+tag:kilamba: 3
+tag:sonip: 1
+tag:Rafel marques: 2
+tag:garimpeiros: 1
+tag:tortura. diamantes de sangue: 1
+tag:Agro-pecuária: 2
+tag:Henrique André Júnior: 2
+tag:Kuanza Norte: 2
+tag:Pecuária: 2
+tag:Portugueses: 41
+tag:LAM: 3
+tag:Viagens: 9
+tag:angola fala só: 3
+tag:voz da américa: 7
+tag:falência: 16
+tag:imprensa privada: 1
+tag:jornais: 2
+tag:destruição: 10
+tag:Daniel Bekele: 1
+tag:SSN: 1
+tag:Serviço de Segurança Nacional: 1
+tag:Sudão do Sul: 3
+tag:Antigo Presidente egípcio: 2
+tag:Egipto: 2
+tag:Hosni Mubarak: 2
+tag:Moubarak: 2
+tag:Sentença: 4
+tag:M'bangula Katúmua: 2
+tag:custos: 25
+tag:leitura: 4
+tag:combustíveis: 17
+tag:falta: 16
+tag:leste: 2
+tag:Moxico: 8
+tag:porrada: 6
+tag:Francisco Luemba: 12
+tag:Partido: 28
+tag:Santa Casa da Misericórdia de Lisboa: 1
+tag:lista negra: 1
+tag:albino carlos: 1
+tag:prémio nacional: 1
+tag:vias rápidas: 2
+tag:Augusto Tomás: 2
+tag:Transportes: 4
+tag:congresso luso-africano: 1
+tag:construções metálicas: 1
+tag:Clandestinos no Paraíso: 2
+tag:Luís Fernando: 10
+tag:Luís sambo: 5
+tag:agência lusa: 2
+tag:apologia: 10
+tag:atlântico: 2
+tag:colóquio: 3
+tag:oliveira martins: 1
+tag:madeira: 1
+tag:mindelo: 1
+tag:parceiros: 1
+tag:CIC: 2
+tag:Projekta: 3
+tag:tijolos: 2
+tag:regresso: 21
+tag:feridos: 26
+tag:incêndios: 2
+tag:vítimas: 24
+tag:MSF: 2
+tag:ODM: 1
+tag:riqueza: 29
+tag:empresário: 7
+tag:grunhido: 1
+tag:sipaio: 28
+tag:Vinho: 6
+tag:festival: 3
+tag:importação: 45
+tag:Fernando vumby: 4
+tag:escola: 9
+tag:marcha: 3
+tag:embaixador: 34
+tag:Processo de Paz: 2
+tag:Reconciliação: 22
+tag:Ataque: 33
+tag:Daviz Simango: 6
+tag:Médicos sem Fronteiras: 3
+tag:trinta anos: 2
+tag:Rússia: 29
+tag:mausoléu: 4
+tag:morte: 51
+tag:autoderminação: 2
+tag:comissão parlamentar: 2
+tag:mercenários: 4
+tag:Companhia Nacional de Computadores e Sistemas de Informação: 2
+tag:Escolas: 13
+tag:Informática: 2
+tag:Ministério da Educação: 2
+tag:“Meu Kamba”: 2
+tag:be: 18
+tag:catarina martins: 4
+tag:Miguel Trovoada: 3
+tag:São Tomé: 10
+tag:rdcongo: 7
+tag:Milhões de Angola: 1
+tag:Primeiro-Ministro português: 3
+tag:pátria: 4
+tag:Biaguê Nan Tan: 1
+tag:cinquentenário: 1
+tag:Mindelact: 3
+tag:Parcerias: 5
+tag:Aquisição: 2
+tag:Finanças: 60
+tag:Imobiliário: 6
+tag:Ciência: 2
+tag:Ministra da Ciência: 2
+tag:Recursos: 8
+tag:legionella: 1
+tag:AEPF: 2
+tag:Associação Empresarial de Paços de Ferreira: 2
+tag:SplendBorn: 2
+tag:Moody's: 15
+tag:crescimento: 95
+tag:EIU: 2
+tag:Empréstimos: 7
+tag:tanzânia: 1
+tag:Triton Minerals: 1
+tag:grafite: 1
+tag:kwanza: 32
+tag:moeda: 3
+tag:rainha Njinga: 2
+tag:Espanha: 26
+tag:mobarquia: 1
+tag:portiugal: 1
+tag:Naufrágios: 2
+tag:OIM: 2
+tag:Afonso Van-Dúnem "Mbinda": 2
+tag:Michael Sata: 1
+tag:zâmbia: 3
+tag:cotação: 8
+tag:mota-engil: 11
+tag:Lojas: 2
+tag:Moviflor: 1
+tag:Adolfo Campos: 1
+tag:Jindungo no Olho do Outro: 2
+tag:UNAP: 2
+tag:União Nacional dos Artistas Plásticos: 2
+tag:discurso: 40
+tag:Internacional Socialista: 9
+tag:Bento Bento: 7
+tag:Capital: 7
+tag:Grace Mugabe: 2
+tag:Robert Mugabe: 6
+tag:Zimbabué: 12
+tag:Eleições Brasil: 2
+tag:AFL: 2
+tag:Alliance Française: 2
+tag:Ciclo de cinema: 2
+tag:Mulheres Rebeldes: 2
+tag:Teatro: 10
+tag:FestiSumbe: 2
+tag:Carlos Lamartine: 2
+tag:Campeonato Nacional de Futebol para portadores de deficiência: 2
+tag:Portadores de deficiência: 2
+tag:torturas: 1
+tag:resultados eleitorais: 1
+tag:Camberra: 1
+tag:ditadores: 25
+tag:entrevista: 23
+tag:Opinião: 24
+tag:Orlando Castro: 8
+tag:José ribeio: 2
+tag:andulo: 4
+tag:bunker: 4
+tag:quadrilheiros: 2
+tag:Paihama: 6
+tag:Assad: 2
+tag:Bashar al-Assad: 2
+tag:Síria: 14
+tag:Censura: 57
+tag:imprensa portuguesa: 2
+tag:andré franco de sousa: 1
+tag:fundação: 8
+tag:internacional: 4
+tag:nástio mosquito: 2
+tag:calçada: 2
+tag:sem-abrigo: 3
+tag:direitos humanos. OMUNGA: 2
+tag:taça de áfrica: 2
+tag:financiamentos: 12
+tag:Nepotismo: 158
+tag:aumento: 20
+tag:kaluanda: 1
+tag:nestlé: 1
+tag:CD: 3
+tag:Cantora: 1
+tag:Compositora: 1
+tag:Neusa Linda Sessa: 1
+tag:Neusa Sessa: 1
+tag:Nga: 2
+tag:Rap: 6
+tag:Fardamento: 2
+tag:Nigéria: 25
+tag:assembleia nacional: 4
+tag:constituição: 60
+tag:desrespeito: 27
+tag:leis: 35
+tag:josé eduardo: 1
+tag:Statoil: 1
+tag:rio kwanza: 1
+tag:notas: 4
+tag:recolha: 15
+tag:Endemia: 2
+tag:navio: 1
+tag:Raúl Castro: 4
+tag:histórico: 4
+tag:obama: 20
+tag:relações: 29
+tag:Incantema: 1
+tag:escola de pescas: 1
+tag:expositores: 5
+tag:fil: 3
+tag:autárquicas: 3
+tag:legislativas: 1
+tag:lei eleitoral: 3
+tag:Janira Hopffer Almada: 2
+tag:política: 60
+tag:Novo Banco: 2
+tag:edp: 2
+tag:sérgio figueiredo: 2
+tag:tvi: 9
+tag:Adão do Nascimento: 4
+tag:Carreira docente: 2
+tag:mortes: 112
+tag:rsf: 8
+tag:sequestros: 2
+tag:Kalaf Epalanga: 1
+tag:oásis: 2
+tag:seguros: 7
+tag:UE: 17
+tag:União Europeia: 25
+tag:jornal "o crime": 1
+tag:Gestão: 36
+tag:Odebrecht: 15
+tag:Quadros nacionais: 2
+tag:luz: 4
+tag:Protectorado Lunda Tchokwe: 2
+tag:autonomia: 4
+tag:Eusébio de Brito Teixeira: 2
+tag:PRS: 28
+tag:oge aprovado: 1
+tag:gastos: 6
+tag:oje: 2
+tag:artur queiroz: 4
+tag:zedu: 5
+tag:Igreja Católica: 23
+tag:MNE: 2
+tag:Movimento Nacional Espontâneo: 2
+tag:conto: 2
+tag:selva: 4
+tag:Filipe Olímpio Candala: 2
+tag:mandato: 5
+tag:antónio guterres: 14
+tag:Enfermeiros: 8
+tag:Agência de notícias: 1
+tag:Inforpress: 1
+tag:Oposição: 107
+tag:RTC: 1
+tag:Televisão: 11
+tag:BCV: 1
+tag:Banco de Cabo Verde: 1
+tag:MpD: 5
+tag:Nomeação: 12
+tag:Paulo de Carvalho: 2
+tag:bastonário: 1
+tag:ordem dos advogados: 1
+tag:Fradique de Menezes: 1
+tag:Domingos Kambunji: 4
+tag:joana bernardo: 2
+tag:Assassinatos: 40
+tag:Isaías Cassule: 6
+tag:pasquim: 22
+tag:reigime: 3
+tag:Burocracia: 2
+tag:Poder autárquico: 2
+tag:Capitalismo: 6
+tag:Cleptocracia: 32
+tag:Socialismo Sanzaleiro: 2
+tag:assassinados: 6
+tag:partidos: 22
+tag:voz do dono: 2
+tag:g20: 1
+tag:japão: 7
+tag:Paixão Júnior: 2
+tag:Progresso do Sambizanga: 2
+tag:Bernarda martins: 1
+tag:Demissão: 19
+tag:casamança: 2
+tag:Bureau político do MPLA: 2
+tag:Celebração: 2
+tag:Cesária Évora: 4
+tag:Colégio Cesária Évora: 2
+tag:Manuel Tilman: 1
+tag:Internacionalização: 2
+tag:Ministro das Relações Exteriores: 2
+tag:Cartão único de cidadão: 1
+tag:Voto electrónico: 1
+tag:inundações: 5
+tag:mpla.ditadura: 4
+tag:sanzaleiro: 4
+tag:virgílio fontes pereira: 2
+tag:Kundi Pahiama: 2
+tag:pme: 1
+tag:Peregrin: 2
+tag:Pesca: 7
+tag:Rio Kuvango: 2
+tag:Benfica de Luanda: 2
+tag:Taça de Angola de futebol: 2
+tag:petrólep: 3
+tag:Obiang: 40
+tag:Dólares: 66
+tag:bens: 16
+tag:buscas: 2
+tag:rating: 16
+tag:revisão: 9
+tag:piloto: 2
+tag:sá silva: 2
+tag:Malanje: 7
+tag:Pioneiros: 7
+tag:Reitor: 4
+tag:golpes: 5
+tag:podemos: 2
+tag:pp: 3
+tag:psoe: 2
+tag:Poderes presidenciais: 2
+tag:António Muhungo: 1
+tag:mulheres empresárias: 1
+tag:ética: 22
+tag:Chico Pobre: 2
+tag:II Festival Nacional de Poesia: 2
+tag:Poesia: 6
+tag:polícia federal: 1
+tag:Austrália: 2
+tag:Kailash Satyarthi.nobel da paz: 2
+tag:Malala Youzafsai: 4
+tag:Presos: 79
+tag:porrada. feridos: 1
+tag:Paulo Portas: 13
+tag:elogio: 10
+tag:Educa: 1
+tag:Filda: 12
+tag:Conselho dos Direito Humanoss: 1
+tag:deputados: 57
+tag:violação: 20
+tag:João da Câmara: 5
+tag:Queixa: 24
+tag:carreira: 2
+tag:milionários: 28
+tag:estatuto: 7
+tag:milionário: 5
+tag:European Tour: 2
+tag:Golfe: 2
+tag:pratos preferidos: 2
+tag:século xx: 2
+tag:boletim oficial: 5
+tag:Ministro das Finanças: 1
+tag:preço: 11
+tag:OPEP: 4
+tag:dependência: 10
+tag:Denis Mukwege: 1
+tag:Parlamento Europeu: 11
+tag:Prémio Sakharov: 1
+tag:Fundação Fé e Cooperação: 1
+tag:católicos: 7
+tag:Metropolitano: 2
+tag:ditador: 29
+tag:Festival Internacional de Teatro do Mindelo: 2
+tag:Jorge Carlos Fonseca: 2
+tag:José Carlos Fonseca: 2
+tag:campeões mundiais: 2
+tag:pesca desportiva: 2
+tag:comité central: 7
+tag:reunião: 10
+tag:academia: 4
+tag:sporting clube de portugal: 2
+tag:Matchedje: 2
+tag:Viaturas: 4
+tag:Maria Amélia Ferreira: 1
+tag:faculdade de medicina: 1
+tag:aniversário da morte: 2
+tag:gabriel costa: 1
+tag:patrice troviada: 1
+tag:Angol: 2
+tag:Hidroeléctrica do Gove: 2
+tag:SRS: 2
+tag:carbono: 2
+tag:privados: 16
+tag:recuperação: 18
+tag:Legislação: 10
+tag:negócio. sangue: 1
+tag:promaica: 1
+tag:ministro da defesa: 2
+tag:prontidão: 2
+tag:Consultora Imobiliária: 2
+tag:Euromoney: 2
+tag:Proprime: 2
+tag:perfil: 2
+tag:Ramos-Horta: 6
+tag:Dalila Cabrita Mateus: 4
+tag:nito alves: 13
+tag:álvaro mateus: 2
+tag:qatar: 2
+tag:ex-militares: 6
+tag:fala: 22
+tag:fapla: 16
+tag:integração: 2
+tag:assassinado: 7
+tag:Cruz Vermelha: 5
+tag:Orçamento Geral do Estado: 2
+tag:Queda: 40
+tag:Federação Angolana de Patinagem: 2
+tag:Pedro Azevedo "Chipita": 2
+tag:Fernando dos Santos Neves: 1
+tag:Anders Fogh Rasmussen: 2
+tag:Estado Islâmico: 24
+tag:NATO: 7
+tag:Radicalismo Islâmico: 2
+tag:Domingos Caieiei: 2
+tag:Grupo teatral Arte Kissonde: 2
+tag:Kissonde: 2
+tag:Luena: 8
+tag:Lweji o nascimento de um novo império: 2
+tag:Rainha Lweji A'Konde: 2
+tag:oferta de compra: 2
+tag:paz: 59
+tag:guerra: 162
+tag:implosão: 13
+tag:rastilho: 2
+tag:Aliança evangélica de Angola: 2
+tag:António Neves Mussaqui: 2
+tag:FDRL: 1
+tag:cimeir: 1
+tag:rebeldesa: 1
+tag:rebeldes: 3
+tag:PERT: 2
+tag:Projecto Executivo de Reforma Tributária: 2
+tag:Receita Fiscal: 2
+tag:Valentina Filipe: 2
+tag:crescomento: 1
+tag:receita: 1
+tag:Amnistia: 19
+tag:Golpe Militar: 2
+tag:campeão: 2
+tag:libolo: 4
+tag:reeducação: 2
+tag:socialismo: 8
+tag:balanço 2014: 1
+tag:Nobel da Paz 2014: 2
+tag:Prémio Nobel: 4
+tag:Aumento de preços: 2
+tag:autómatos: 2
+tag:avante: 1
+tag:mabecos: 1
+tag:Security Council Report: 2
+tag:América Latina: 5
+tag:protocolo: 4
+tag:António Muchanga: 2
+tag:Religião: 9
+tag:impugnação: 9
+tag:Repsol: 1
+tag:pré-sal: 1
+tag:reservas monetárias: 1
+tag:jm+la: 2
+tag:querido líder: 3
+tag:rescova: 3
+tag:Francisco Febrero: 1
+tag:roff: 1
+tag:José Saramago: 2
+tag:Romance: 4
+tag:revolucionário: 2
+tag:roubo: 66
+tag:saque: 9
+tag:Energia nuclear: 2
+tag:Reactores: 2
+tag:Ucrânia: 2
+tag:invasão: 7
+tag:tropas: 2
+tag:Amílcar Safeca: 1
+tag:unitel: 19
+tag:Turismo: 22
+tag:Carlos Pinto de Sousa: 2
+tag:mortalidade infantil: 5
+tag:Medicina tradicional: 4
+tag:catástrofe: 1
+tag:sul: 8
+tag:Lacticínios: 2
+tag:Sector lácteo: 2
+tag:cura: 4
+tag:a bola: 1
+tag:estágio: 2
+tag:femininos: 2
+tag:júniores: 2
+tag:Rosa Pacavira: 4
+tag:grace: 2
+tag:moscas: 2
+tag:tigres: 2
+tag:africano: 2
+tag:branco: 2
+tag:negro: 2
+tag:Paulo feijó: 2
+tag:burlas: 4
+tag:pacavira: 3
+tag:serviços mínimos: 1
+tag:terramoto político: 1
+tag:batuque: 1
+tag:marimba: 1
+tag:puita: 1
+tag:quissanje: 1
+tag:joão soares: 10
+tag:António Costa: 25
+tag:António José Seguro: 1
+tag:guerrilha: 6
+tag:Banco Sol: 2
+tag:solidariedade: 30
+tag:Propecção: 3
+tag:banco económico: 3
+tag:nacionalização: 2
+tag:Clínica Girassol: 2
+tag:despedimentos: 5
+tag:Argentina: 2
+tag:Banda desenhada: 2
+tag:Joaquin Lavado: 2
+tag:Mafalda: 2
+tag:Quino: 2
+tag:azeite: 1
+tag:sovena: 1
+tag:óleo: 1
+tag:Fernandes Manuel: 2
+tag:Compal: 2
+tag:Sumol: 2
+tag:Akwá: 1
+tag:elogios: 8
+tag:Augusto da Silva Tomás: 4
+tag:Emirates: 26
+tag:Ministro dos Transportes: 2
+tag:Natalidade: 2
+tag:Estaline: 2
+tag:KGB: 2
+tag:subserviência: 17
+tag:Taxa de juros: 2
+tag:inflação: 37
+tag:tdt: 1
+tag:terrestre: 1
+tag:Teixeira Duarte: 2
+tag:Campanha eleitoral: 3
+tag:Juvenal Rodrigues: 1
+tag:TVS: 1
+tag:gâmbia: 7
+tag:tentavia de golpe: 1
+tag:Vaticano: 5
+tag:testes: 4
+tag:Janeiro: 6
+tag:funcionários ienternacionais: 1
+tag:dubai: 3
+tag:Dia Internacional para a Erradicação da Pobreza: 2
+tag:Erradicação da pobreza: 2
+tag:Helpo: 2
+tag:ONDG: 2
+tag:Bombardeamento: 2
+tag:Jihadistas: 4
+tag:Together: 2
+tag:Yas Camambala: 2
+tag:200 melhores universidades do mundo: 2
+tag:Ranking: 17
+tag:Reino Unido: 4
+tag:Times Higher Education: 2
+tag:World Universities Rankings: 2
+tag:Gastos públicos: 1
+tag:Leonel Silva: 1
+tag:gravidas: 1
+tag:tratamento: 11
+tag:somália: 1
+tag:Miau: 4
+tag:demissões: 6
+tag:exame: 1
+tag:genebra: 4
+tag:Luxo: 6
+tag:angolanos: 74
+tag:Dalai Lama: 1
+tag:bicicletas: 2
+tag:António Sérgio: 1
+tag:Uivo: 1
+tag:João Sérgio Raúl: 2
+tag:Lixeira: 2
+tag:Resurb: 2
+tag:parceria: 2
+tag:criança: 12
+tag:perspectiva: 1
+tag:classe média: 6
+tag:Fitch: 12
+tag:Herói: 25
+tag:golpe de estado: 16
+tag:Desminagem: 5
+tag:Combate à desnutrição: 1
+tag:Cáritas: 1
+tag:Muangai: 13
+tag:Vitorino Nhani: 3
+tag:delegação: 1
+tag:Alcides Sakala: 14
+tag:Liberty Chiyaka: 2
+tag:atentado: 5
+tag:vítima: 3
+tag:arcebispo do huambo: 2
+tag:homilia: 2
+tag:Cancro do colo do útero: 2
+tag:José Van-Dúnem: 2
+tag:Ministro da Saúde: 2
+tag:brancos: 5
+tag:vacina: 6
+tag:ameaças: 44
+tag:cruzeiros: 2
+tag:lobito: 16
+tag:ICCT: 1
+tag:Mosca do sono: 1
+tag:Abreu Mpecamena: 2
+tag:Infertilidade: 2
+tag:Maternidade Lucrécia Paim: 2
+tag:Procriação: 2
+tag:Saúde Materna: 2
+tag:hotelaria: 2
+tag:desvio: 7
+tag:histórias: 3
+tag:navio kerala: 1
+tag:petróleio: 1
+tag:piratas: 1
+tag:Fundação Mo Ibrahim: 4
+tag:Mo Ibrahim: 16
+tag:Vietnam: 1
+tag:Vinhos do Alentejo: 2
+tag:Vitivinicultura: 2
+tag:setúbal: 1
+tag:vinhos: 3
+tag:Abdul Carimo: 4
+tag:100 anos: 2
+tag:Kinshasa: 4
+tag:Revista Science: 2
+tag:escândalo: 11
+tag:visto gold: 2
+tag:Vistos Falsos: 2
+tag:aeroporto: 5
+tag:MDA: 2
+tag:Afonso Isaías Bapo: 2
+tag:Uíge: 8
+tag:RNA: 20
+tag:lusfonia: 1
+tag:Francisco George: 2
+tag:Voluntariado: 2
+tag:fadas: 2
+tag:iate: 2
+tag:saramago: 2
+tag:dezembro: 6
+tag:votação: 15
+tag:imunidade: 8
+tag:timor-lestes: 2
+tag:Família Eduardo dos Santos: 2
+tag:cargos: 4
+tag:poder: 68
+tag:ocidente: 5
+tag:Yola Semedo: 2
+tag:Kalupeteka: 42
+tag:chacina: 3
+tag:downloads: 2
+tag:comprar: 1
+tag:material militar: 2
+tag:4 de fevereiro: 8
+tag:luta armada: 2
+tag:contas: 22
+tag:mentiras: 99
+tag:irmão: 1
+tag:marta dos santos: 2
+tag:escravos: 51
+tag:ricos: 28
+tag:Arão Tempo: 3
+tag:Marcos Mavungo: 35
+tag:abaixo-assinado: 1
+tag:Abel Chivukuvuku: 19
+tag:luta: 154
+tag:aborto: 6
+tag:assembleia: 22
+tag:discussão: 8
+tag:Protestos: 24
+tag:absolvição: 7
+tag:assassino: 3
+tag:tribunal: 91
+tag:iurd: 8
+tag:Nelson Pestana: 2
+tag:economia informal: 2
+tag:estudo: 12
+tag:produtos não petrolíferos: 2
+tag:Abrahão Gourgel: 2
+tag:Namíbia: 11
+tag:câmbios.fronteira: 2
+tag:kwanzas: 20
+tag:bilionários: 2
+tag:activistas: 272
+tag:carta: 32
+tag:greve: 38
+tag:perdão: 3
+tag:julgamento adiado: 1
+tag:Processo: 9
+tag:advogados: 38
+tag:provas: 12
+tag:sem acesso: 2
+tag:sadc: 7
+tag:brasil advogados: 2
+tag:oab: 2
+tag:Luaty Beirão: 100
+tag:clínica privada: 1
+tag:perigo de vida: 1
+tag:transferido: 3
+tag:farsa: 52
+tag:rebelião: 4
+tag:40 anos: 8
+tag:convidados: 5
+tag:regabofe: 3
+tag:desempregro: 2
+tag:informal: 2
+tag:paralela: 2
+tag:subsistência: 6
+tag:maternidade: 4
+tag:índices: 2
+tag:domínio: 16
+tag:investimentos: 68
+tag:FMI: 77
+tag:exploração: 27
+tag:riquezas: 14
+tag:dificuldades: 17
+tag:riscos: 4
+tag:40º aniversário: 2
+tag:desfile: 2
+tag:festividades: 2
+tag:consumo: 8
+tag:doenças: 45
+tag:imprópria: 1
+tag:Luvualu: 44
+tag:agualusa: 23
+tag:rtp: 16
+tag:água potável: 6
+tag:abastecimento: 5
+tag:furos: 1
+tag:filomeno manaças: 2
+tag:site: 6
+tag:acordos namibe: 2
+tag:raul tati: 18
+tag:450 milhões: 1
+tag:financiar: 1
+tag:greve de fome: 10
+tag:manobras dilatórias: 1
+tag:agressões: 12
+tag:cadeia: 3
+tag:prisioneiros: 5
+tag:cerveja: 6
+tag:lei: 83
+tag:álcool: 4
+tag:assistência: 22
+tag:doentes: 20
+tag:lepra: 1
+tag:líbia: 13
+tag:primavera: 5
+tag:tunísia: 4
+tag:adultos: 2
+tag:alfabetizar: 1
+tag:centro: 2
+tag:irregularidades: 9
+tag:pesquisa: 2
+tag:democracias: 2
+tag:mundo: 54
+tag:galo negro: 3
+tag:especulação: 2
+tag:importações: 20
+tag:Alterações climáticas: 1
+tag:investigadores: 1
+tag:universidades: 10
+tag:África Austral: 3
+tag:mapla: 3
+tag:ex-rda: 1
+tag:salários: 32
+tag:trabalhadores: 24
+tag:prisões: 51
+tag:biodiversidade: 2
+tag:fundos: 3
+tag:Luís de almeida. ameaças: 1
+tag:grupo lena: 2
+tag:libertação: 18
+tag:amnistia internacional. prisões: 1
+tag:eurodeputada: 1
+tag:expressão: 3
+tag:rir: 4
+tag:acções: 3
+tag:bird: 1
+tag:Macolino moco: 1
+tag:exclusivo: 5
+tag:França.angola: 1
+tag:demografia: 2
+tag:musseques: 10
+tag:2018: 13
+tag:mundial futebol: 2
+tag:hitler: 10
+tag:judeus: 1
+tag:nazis: 2
+tag:laicidade: 1
+tag:santa sé: 1
+tag:Angola LNG: 2
+tag:adiamento: 19
+tag:gás: 9
+tag:José Patrocínio: 2
+tag:remessas: 13
+tag:canadá: 8
+tag:Justin Trudeau: 2
+tag:activistas detidos: 2
+tag:prisão: 73
+tag:salmonelas: 1
+tag:encontro: 24
+tag:bauxite: 1
+tag:milhões de dólares: 3
+tag:alternativas: 14
+tag:biomassa: 1
+tag:postos: 1
+tag:angola. angosat: 2
+tag:safeca: 2
+tag:promessa: 4
+tag:anonymous: 1
+tag:sites: 1
+tag:Dino Matross: 4
+tag:massacre: 25
+tag:sumi: 1
+tag:Sedrick de Carvalho: 8
+tag:diálogo: 15
+tag:fnla.combatentes: 1
+tag:holden roberto: 8
+tag:revolução: 5
+tag:análise: 18
+tag:Aon: 2
+tag:Francisco Gonçalves Afonso: 1
+tag:cncs: 1
+tag:criminosos: 8
+tag:imbecis: 1
+tag:trabalho: 10
+tag:petição: 4
+tag:lixo: 34
+tag:Zulinni Bumba: 4
+tag:Bloco Democrático: 19
+tag:conselho da república: 5
+tag:fórum: 6
+tag:cimento: 3
+tag:Cónego: 1
+tag:apolónio: 1
+tag:engana: 1
+tag:alternativa: 11
+tag:mucoso: 1
+tag:facilidades: 1
+tag:Chitembo: 1
+tag:diamantes ilegais: 1
+tag:juiz. tpa: 2
+tag:vídeos: 2
+tag:árabes: 12
+tag:cartazes: 3
+tag:faminto: 1
+tag:arquitectura: 5
+tag:centro camões: 2
+tag:pgr: 68
+tag:embaixada: 15
+tag:Minas: 15
+tag:país: 20
+tag:perigo: 12
+tag:ministras: 3
+tag:assassinos: 10
+tag:Goldman Sachs: 4
+tag:alves da rocha: 4
+tag:dúvidas: 16
+tag:jovens detidos: 4
+tag:multas: 4
+tag:bajulação. eduardo dos santos: 1
+tag:reacção: 15
+tag:mais rica: 2
+tag:regime. mpla: 7
+tag:aduaneiros: 1
+tag:omc: 3
+tag:comemorações: 3
+tag:ramalho eanes: 1
+tag:BCP: 12
+tag:atlântico europa: 2
+tag:banco: 8
+tag:global: 4
+tag:artigo: 2
+tag:acordos de paz: 1
+tag:ajpd: 5
+tag:graça campos: 2
+tag:miala: 3
+tag:chocolate: 1
+tag:fábrica: 7
+tag:acidente: 3
+tag:força aérea: 3
+tag:condenação: 31
+tag:tpa: 36
+tag:empréstimo: 6
+tag:crédito: 11
+tag:imposto: 4
+tag:Imogestim: 1
+tag:funcionários públicos: 1
+tag:privilégios: 1
+tag:jornalista: 15
+tag:voa: 1
+tag:bebidas: 4
+tag:armas: 39
+tag:senado: 2
+tag:bloco de esquerda: 14
+tag:Deloitte: 3
+tag:bes. besa: 1
+tag:biblioteca: 2
+tag:programa: 21
+tag:créditos: 2
+tag:câmbio: 12
+tag:pedro pires: 4
+tag:índice Ibrahim: 4
+tag:negociação: 4
+tag:bolsa: 1
+tag:obrigações: 8
+tag:tesouro: 3
+tag:valores: 5
+tag:2016: 12
+tag:pirão: 3
+tag:festas: 3
+tag:loução: 1
+tag:boletim oficia: 1
+tag:Sindika Dokolo: 13
+tag:bordel: 2
+tag:medalha: 4
+tag:Kuito Kwanavale: 2
+tag:austeridade: 3
+tag:boeing: 1
+tag:burundi: 5
+tag:buzinão: 7
+tag:panelaço: 5
+tag:protesto: 32
+tag:The New York Times: 1
+tag:nobel: 11
+tag:pulitzer: 2
+tag:colónia: 12
+tag:proibição: 10
+tag:Bispo: 5
+tag:diocese: 2
+tag:cabinda. adriano moreira: 1
+tag:acordos de alvor: 1
+tag:independêcia: 2
+tag:direitos humsnos: 1
+tag:kosovo: 4
+tag:timor: 1
+tag:Mavungo: 8
+tag:preso: 5
+tag:agradecimento: 5
+tag:infantil: 5
+tag:mortalidade materna: 1
+tag:objectivos do milénio: 2
+tag:eficiência: 2
+tag:António Fortunato: 5
+tag:cadeias: 6
+tag:falta de condições: 1
+tag:mercado: 18
+tag:nabeiro: 2
+tag:berlim: 4
+tag:moçambicanos: 6
+tag:muro: 2
+tag:rda: 2
+tag:Cunene: 16
+tag:crianças. angola: 2
+tag:mortalidade: 36
+tag:top: 2
+tag:candando: 8
+tag:Kabila: 24
+tag:queimadas: 1
+tag:vias: 1
+tag:tinta da china: 2
+tag:Paulo de morais: 6
+tag:procurador: 9
+tag:conluio: 3
+tag:emigração: 3
+tag:família: 39
+tag:pagamentos: 16
+tag:prepotência: 12
+tag:herói nacional: 2
+tag:cartão: 1
+tag:multibanco: 1
+tag:uso: 1
+tag:dignidade: 16
+tag:pai: 22
+tag:Luís Cília: 1
+tag:Pilar del Río: 1
+tag:manuel freire: 1
+tag:apartamentos: 2
+tag:arrendamento: 2
+tag:casas: 16
+tag:limites: 1
+tag:produtos básicos: 1
+tag:pressão: 12
+tag:missionário: 3
+tag:voluntários: 1
+tag:Kinaxixi: 1
+tag:centro comercial: 1
+tag:somague: 3
+tag:batalha: 8
+tag:cuito cuanavale: 8
+tag:sul-africanos: 4
+tag:Catalunha: 1
+tag:corrupçãp: 2
+tag:cartas de condução: 1
+tag:aparências: 4
+tag:crime: 36
+tag:restrições: 3
+tag:consumidores: 4
+tag:Nazaki: 2
+tag:cobalt: 18
+tag:cavo verde: 2
+tag:coincidência: 1
+tag:conspiração: 1
+tag:colapso: 4
+tag:faltas: 1
+tag:marginais: 1
+tag:cfb: 3
+tag:desmnagem: 1
+tag:luau: 3
+tag:filme: 4
+tag:guerras: 6
+tag:Zango II: 2
+tag:desocupação: 2
+tag:compras: 5
+tag:diversificação: 32
+tag:mpla. prisão: 1
+tag:entidades reguladoras: 2
+tag:novas moedas: 2
+tag:sonau: 1
+tag:coligação: 18
+tag:maio: 4
+tag:convocação: 1
+tag:Angolagate: 2
+tag:HSBC: 5
+tag:petróleo. exportação: 1
+tag:intolerância: 2
+tag:patriotas: 2
+tag:genocídio: 5
+tag:intolerância política: 2
+tag:parteiras. maternidades: 1
+tag:registo: 16
+tag:afinidades: 2
+tag:ditaduras: 14
+tag:pyongyang: 2
+tag:Ti: 2
+tag:tiac: 2
+tag:construtoras: 2
+tag:clp: 2
+tag:desnutrição: 6
+tag:díli: 4
+tag:reservas: 5
+tag:Business Monitor: 2
+tag:previsões: 14
+tag:angola. crescimento: 2
+tag:inovação: 4
+tag:total: 12
+tag:obras: 14
+tag:helicópteros: 2
+tag:fernando heitor: 3
+tag:bens alimentares: 1
+tag:Miguel Diaz-Canel Bermúdez: 1
+tag:Libéria: 3
+tag:culpados: 12
+tag:habeas corpus: 7
+tag:fiasco: 4
+tag:nutrição: 4
+tag:dados: 1
+tag:Kalupeteca: 15
+tag:igrejas: 14
+tag:seitas: 12
+tag:condenações: 6
+tag:cinemas: 2
+tag:Ekuikui: 4
+tag:bailundo: 6
+tag:land rover: 2
+tag:regulação: 2
+tag:fuga: 15
+tag:investidores: 3
+tag:gestão ruinosa: 1
+tag:desastre: 20
+tag:seita: 16
+tag:soluções: 5
+tag:impedimento: 6
+tag:observadores: 36
+tag:Eugénio Manuvakola: 1
+tag:partido único: 4
+tag:regime. casa-ce: 1
+tag:movimento: 9
+tag:seul: 2
+tag:iscte: 1
+tag:fronteiras: 1
+tag:observatório: 6
+tag:bajular: 4
+tag:justino pinto de andrade: 1
+tag:radiografia: 6
+tag:incumprimento: 8
+tag:índice: 4
+tag:ovos: 11
+tag:desvalorização: 16
+tag:dólar: 16
+tag:emboscada: 2
+tag:tolerância: 1
+tag:governadores: 5
+tag:ministros: 13
+tag:venezuela: 4
+tag:vendas: 7
+tag:Endiama: 14
+tag:diferendo: 6
+tag:spe: 4
+tag:crescimentos: 2
+tag:saldo: 2
+tag:lapidação: 1
+tag:verbas: 9
+tag:investigação: 18
+tag:vida: 18
+tag:amigos: 15
+tag:violações: 27
+tag:Paulo Azevedo: 6
+tag:aicep: 5
+tag:frasquilho: 3
+tag:polícias: 17
+tag:cambial: 2
+tag:kinguilas: 1
+tag:procura: 5
+tag:câmbios: 5
+tag:escassez: 3
+tag:troca: 8
+tag:filomeno vieira dias: 5
+tag:igreja: 19
+tag:Arão Bula Tempo: 2
+tag:pev: 1
+tag:psd-cds: 3
+tag:atenção: 1
+tag:cuidados: 3
+tag:ilegais: 12
+tag:repatriamento: 10
+tag:cervejas: 6
+tag:exportações portuguesas: 1
+tag:127 anos: 1
+tag:caminhos de ferro de luanda: 1
+tag:pré-pago. contadores: 2
+tag:sector: 2
+tag:Herman Cohen: 1
+tag:anúncio: 2
+tag:Swiss Leaks: 2
+tag:eduardo dos santo: 2
+tag:costa: 5
+tag:marinha: 3
+tag:denúncia: 13
+tag:partidarismo: 2
+tag:embargo: 7
+tag:prisão domiciliária: 3
+tag:estrangeiros: 23
+tag:municípios: 2
+tag:novos hotéis: 2
+tag:confusão: 6
+tag:conflito: 12
+tag:januário: 10
+tag:Vigília: 10
+tag:casa de cabinda: 2
+tag:Vigílio Tyova: 1
+tag:associações: 2
+tag:estratégia: 22
+tag:"encruzilhada": 1
+tag:Kizomba: 1
+tag:Zaza The Pi: 1
+tag:single: 1
+tag:hotéis: 1
+tag:gnr: 2
+tag:memorando: 8
+tag:psp: 2
+tag:joão melo: 23
+tag:Lopo do nascimento: 1
+tag:futuro: 32
+tag:passado: 6
+tag:reflexão: 8
+tag:crimes: 37
+tag:vigílias: 5
+tag:passaportes: 1
+tag:colonos: 6
+tag:laborinho: 2
+tag:Mikko Pyhälä: 1
+tag:pensadores: 1
+tag:general: 25
+tag:Papa: 6
+tag:encíclicas: 1
+tag:cidade mais cara: 1
+tag:onusida: 2
+tag:vih: 2
+tag:pedido: 6
+tag:euro: 4
+tag:yuan: 2
+tag:aromas: 1
+tag:barcelona: 6
+tag:equivalenza: 1
+tag:perfumes: 1
+tag:comemoração: 5
+tag:indultos: 1
+tag:Hélder Bataglia: 1
+tag:escravidão: 1
+tag:materno-infantil: 1
+tag:atrasos: 16
+tag:arcebispo de luanda: 2
+tag:missa: 1
+tag:filho do primeiro-ministro: 1
+tag:resistir: 2
+tag:forbes: 16
+tag:milionária: 16
+tag:monarca: 2
+tag:Eduardos dos santos: 4
+tag:colonialistas: 1
+tag:heróis: 4
+tag:José de Queirós Alves: 1
+tag:arcebismo do huambo: 1
+tag:Le monde: 1
+tag:queixas: 17
+tag:cooperação ajuda: 2
+tag:eurodeputados: 5
+tag:eface: 2
+tag:posição: 5
+tag:embaixadores: 4
+tag:moção: 3
+tag:eusébio: 1
+tag:panteão: 1
+tag:general disciplina: 1
+tag:acesso: 1
+tag:exames: 1
+tag:execesso: 2
+tag:protagonismo: 2
+tag:exercício: 1
+tag:marinha de guerra: 1
+tag:histórica: 1
+tag:negros: 5
+tag:sociedade: 30
+tag:escolas portuguesas: 2
+tag:êxito: 5
+tag:mpla polícia: 1
+tag:repetição: 4
+tag:tese: 3
+tag:carência: 5
+tag:contabilistas: 1
+tag:ordem: 7
+tag:hospitais: 24
+tag:CISA: 1
+tag:impunidade: 39
+tag:apostas: 4
+tag:caos: 4
+tag:rodovias: 2
+tag:trânsito: 9
+tag:medidas: 12
+tag:treta: 14
+tag:artesanal: 1
+tag:famílias: 6
+tag:milhares: 5
+tag:portugal. diamantes: 2
+tag:manifestantes: 3
+tag:Domingos da Cruz: 9
+tag:Ferryboat: 1
+tag:Filipe Nyusi: 3
+tag:guebuza: 5
+tag:Filomeno dos santos: 6
+tag:dono: 4
+tag:flec/fac. ex-militares: 1
+tag:governadora: 6
+tag:ameaça: 4
+tag:crimes.kopelipa: 2
+tag:Fly 540: 1
+tag:salários em atraso: 3
+tag:recomendações: 3
+tag:objectivos milénio: 2
+tag:edição: 1
+tag:revista: 3
+tag:Governador do bna. ex-ministro: 1
+tag:chantagem: 7
+tag:fortuna: 6
+tag:fundo global: 2
+tag:Zenú: 8
+tag:Vieira lopes: 2
+tag:Futáfrica: 2
+tag:estrangeiro: 20
+tag:joralista: 2
+tag:nação: 16
+tag:controlo: 27
+tag:passageiros: 5
+tag:comunicado: 12
+tag:petróeo: 2
+tag:rectificação: 5
+tag:novas prisões: 1
+tag:charlie: 2
+tag:greve. fome: 2
+tag:aves: 1
+tag:gripe: 1
+tag:guebuza.liberdade: 1
+tag:poderes: 2
+tag:erradicação: 4
+tag:ANIP: 6
+tag:ataques: 34
+tag:boko haram: 2
+tag:inflação. alta: 1
+tag:Alto Kauango: 4
+tag:acordos: 22
+tag:hihino carneiiro: 2
+tag:Hiroshima! 70 anos: 2
+tag:François Hollande: 1
+tag:mata: 2
+tag:animais: 8
+tag:raiva: 16
+tag:garantias: 6
+tag:idosos: 2
+tag:Gabriel Mbilingi: 2
+tag:confrontos: 2
+tag:arquidiocese: 1
+tag:joão Baruba: 2
+tag:politólogo: 2
+tag:juízes: 12
+tag:importadores: 2
+tag:estadistas: 3
+tag:visitas: 3
+tag:estradas: 18
+tag:João Marcelino Typinge: 2
+tag:kupapatas: 5
+tag:sindicato: 14
+tag:indisposição: 2
+tag:administração: 5
+tag:militar: 3
+tag:matrosse: 1
+tag:aldrabices: 4
+tag:ipop: 2
+tag:sondagem: 7
+tag:amizade: 2
+tag:reviste time: 1
+tag:BCP CaixaBank: 1
+tag:fusão: 3
+tag:CaixaBank: 8
+tag:aumentos: 8
+tag:semana: 2
+tag:200 milhões: 1
+tag:jardins botânicos: 2
+tag:caso luaty: 2
+tag:saída: 16
+tag:legado: 3
+tag:repórteres sem fronteiras: 2
+tag:Novo parlamento: 1
+tag:funcionalidade: 1
+tag:jornalistas "ausentes": 1
+tag:activistas angolanos: 2
+tag:domiciliária: 4
+tag:jesus: 2
+tag:fantochadas: 1
+tag:tribunais: 22
+tag:ambrósio de lemos: 3
+tag:cruz neto: 2
+tag:luvas: 2
+tag:material: 8
+tag:liberlândia: 2
+tag:rabelados: 2
+tag:interpol: 3
+tag:sobrinho: 3
+tag:dez mil: 2
+tag:fogos: 2
+tag:habitações: 2
+tag:despacho: 2
+tag:desvalorizção: 2
+tag:chima: 1
+tag:lac: 1
+tag:rádio despertar: 3
+tag:científica: 2
+tag:descoberta: 5
+tag:moral: 14
+tag:vitória: 16
+tag:Open Society: 3
+tag:advogado: 8
+tag:inglês pinto: 2
+tag:lucas pedro: 1
+tag:manuel vieira: 1
+tag:repórteres sem fronteira: 2
+tag:isolamento: 1
+tag:francisco luemba. cabinda: 1
+tag:FIDH: 1
+tag:grupos: 2
+tag:libertados: 1
+tag:recreativo do libolo: 2
+tag:recta final: 2
+tag:futebol campeonato: 2
+tag:francisco viti: 1
+tag:jornadas: 2
+tag:infanto-juvenil: 7
+tag:Marinho e Pinto: 4
+tag:notação: 2
+tag:incompetência: 26
+tag:toneladas: 2
+tag:reabilitação: 3
+tag:ligações: 1
+tag:desafios: 4
+tag:estruturas: 2
+tag:fardas: 2
+tag:cica: 2
+tag:deolinda teca: 2
+tag:Gabriel Mbilingui: 2
+tag:desemprego: 20
+tag:verdades: 14
+tag:Sílvia Viegas: 2
+tag:doutoramento: 9
+tag:cidade: 3
+tag:reconstrução: 1
+tag:feup: 1
+tag:up: 1
+tag:razão: 6
+tag:Lucas Ngonda: 1
+tag:prejuízos: 8
+tag:sonangol lucros: 2
+tag:Kiambata: 1
+tag:joãozinho: 3
+tag:professora: 1
+tag:The Economist: 5
+tag:passaporte electrónico: 1
+tag:rapidez: 5
+tag:ornalistas: 1
+tag:Veículo Nahary: 1
+tag:galardão: 1
+tag:invenção: 3
+tag:petróleo. crise: 2
+tag:falhas: 26
+tag:tribunal provincial: 2
+tag:analfabetismo: 1
+tag:diminuição: 1
+tag:financiamentos internacionais: 2
+tag:caála: 1
+tag:diarreia: 1
+tag:recrutamento: 2
+tag:Standard & Poor's: 3
+tag:êxodo: 1
+tag:legislatura: 2
+tag:Francisca van Dunem: 10
+tag:Paula Teixeira da cruz: 2
+tag:ministra: 14
+tag:registo eleitoral: 1
+tag:Lei do trabalho: 2
+tag:Luís Campos Ferreira: 1
+tag:zap: 11
+tag:taxistas: 2
+tag:detitos: 2
+tag:progressos: 4
+tag:anedotas: 17
+tag:históricas: 1
+tag:tiradas: 1
+tag:1977: 2
+tag:Srebrenica: 1
+tag:concerto: 3
+tag:mck: 8
+tag:rapper: 2
+tag:retaliação: 4
+tag:retido: 2
+tag:Kit Diagnóstico Médico Móvel: 1
+tag:plantação: 1
+tag:árvores: 1
+tag:redução: 8
+tag:cortes: 12
+tag:mensalão: 1
+tag:memória: 13
+tag:Manuel Augusto: 1
+tag:gregos: 1
+tag:merkel: 1
+tag:doadores: 2
+tag:luta. pobreza: 2
+tag:Nem Cognito: 1
+tag:mercado laboral: 1
+tag:milho: 8
+tag:manuel josé: 1
+tag:ministério: 1
+tag:público: 4
+tag:ISGEST: 1
+tag:ano lectivo: 1
+tag:aulas: 3
+tag:provatização: 1
+tag:Paladin: 1
+tag:molhos: 1
+tag:Luvualu de carvalho: 5
+tag:embaixador itinerante: 2
+tag:Bluegate: 2
+tag:barco: 2
+tag:atentados: 14
+tag:mpda: 1
+tag:Luremo: 2
+tag:capitalistas: 2
+tag:proletários: 2
+tag:oportunidade perdida: 1
+tag:salazar: 2
+tag:força: 7
+tag:quadros: 4
+tag:roberto de almeida: 4
+tag:Alcides Sakala.unita: 1
+tag:mugabe: 5
+tag:estados membros: 2
+tag:pessoas: 7
+tag:gungunhana: 5
+tag:imperador: 1
+tag:Nova Iorque: 3
+tag:setembro: 1
+tag:muxima: 5
+tag:santuário: 3
+tag:tiraria: 2
+tag:roupa usada: 1
+tag:filho: 9
+tag:cobardia: 26
+tag:verdade: 11
+tag:fronteira: 5
+tag:ilegalização: 4
+tag:santoro: 7
+tag:mosca tsé-tsé. doença: 2
+tag:cancelamentos: 2
+tag:envio: 2
+tag:problemas: 4
+tag:cacuaco: 6
+tag:Estatuto Editorial: 1
+tag:código: 1
+tag:deontologia: 1
+tag:intimidação: 9
+tag:perguntas: 3
+tag:fundo: 3
+tag:habitação: 4
+tag:desmentido: 14
+tag:NBA: 2
+tag:Yanick Moreira: 2
+tag:Mário david: 2
+tag:eurodeputado: 2
+tag:cova da moura: 1
+tag:animais. extinção: 2
+tag:caçadores: 2
+tag:captura: 3
+tag:focas: 5
+tag:Heritage Foundation: 2
+tag:Wall Street Journal: 2
+tag:Pai natal: 1
+tag:banqueiro: 1
+tag:talibã: 1
+tag:noruega: 4
+tag:Answer África: 1
+tag:pior de áfrica: 1
+tag:Charlie Hebdo: 7
+tag:terrorista: 1
+tag:projecto: 4
+tag:farmalog: 2
+tag:farmácias: 4
+tag:santos silva: 17
+tag:novos: 1
+tag:Donald Trump: 2
+tag:cafunfo: 6
+tag:caravana: 1
+tag:mandela: 14
+tag:rangel: 2
+tag:sambizanga: 6
+tag:leitores: 3
+tag:qualidade: 7
+tag:reconhecimento: 4
+tag:obsessão: 1
+tag:lula: 2
+tag:Barragem: 8
+tag:contrato: 4
+tag:laúca: 12
+tag:1961: 4
+tag:Beto Van Dúnem: 2
+tag:nacionalistas: 2
+tag:comediantes: 2
+tag:Lukamba-gato-angola-grécia-china: 1
+tag:Barack Obama: 2
+tag:golpe de Estado.angola: 2
+tag:José Marcos Mavungo: 2
+tag:civilização: 4
+tag:vergonha: 66
+tag:fosso: 1
+tag:apertar: 1
+tag:aprovação: 12
+tag:mpala: 2
+tag:ano: 3
+tag:financeiro: 4
+tag:sistema: 8
+tag:Ondjaki: 4
+tag:Oncocercose: 1
+tag:cegueira: 1
+tag:colonização: 4
+tag:culpa: 2
+tag:umbigo: 4
+tag:ua: 7
+tag:Filipe Jacinto Nyusi: 1
+tag:escândalos: 3
+tag:joséribeiro: 1
+tag:Botswuana: 1
+tag:Okavango: 1
+tag:Zambeze: 1
+tag:Profetiza: 1
+tag:preparação: 5
+tag:sacar: 2
+tag:rubricas: 2
+tag:corruptos: 1
+tag:czares: 1
+tag:ditadores. áfrica: 1
+tag:mãos livres: 4
+tag:dos santos: 182
+tag:Sambalanga: 2
+tag:aeroporto. luau: 2
+tag:peixe podre: 2
+tag:foma: 2
+tag:anadota: 1
+tag:comédia: 1
+tag:obama. eduardo dos santos: 1
+tag:anedotário: 1
+tag:igualdade: 6
+tag:sinfo: 2
+tag:pânico: 2
+tag:Ângelo Veiga Tavares: 3
+tag:joão lourenço: 290
+tag:fidelidade: 1
+tag:investir: 2
+tag:nova lisboa: 3
+tag:Donald Heflin: 2
+tag:governação: 20
+tag:Bruce G: 1
+tag:aia: 2
+tag:josé severino: 2
+tag:resolução: 2
+tag:mpla. eduardo dos santos: 1
+tag:luaty berião: 3
+tag:mercadoria: 3
+tag:pauta aduaneira: 1
+tag:Pedra Laúca: 2
+tag:nacional: 5
+tag:activistas presos: 1
+tag:ministério público: 6
+tag:Falcon Oil: 1
+tag:Crisis Group: 1
+tag:Paula Roque: 1
+tag:crise social: 1
+tag:Brookings Institution: 2
+tag:segurança nacional: 2
+tag:função pública: 3
+tag:familiares: 5
+tag:mercadorias: 2
+tag:Lunda Tchokwe: 7
+tag:angola. família: 1
+tag:são domingos: 3
+tag:“Kupapata”. lubango: 1
+tag:agentes: 3
+tag:peões: 1
+tag:atentados. charlie: 2
+tag:flime: 1
+tag:pocas pascoal: 1
+tag:realizadora: 1
+tag:novos mercados: 2
+tag:turistas: 1
+tag:luaty: 5
+tag:pires de lima: 2
+tag:emigrantes: 3
+tag:debandada: 1
+tag:Fernando casimiro: 2
+tag:contributo: 2
+tag:didinho: 2
+tag:jorge abreu: 1
+tag:grande entrevista: 1
+tag:disa: 3
+tag:lamentos: 2
+tag:Joseph Kabila: 1
+tag:segurança regional: 1
+tag:prioridades: 4
+tag:alterações: 6
+tag:penas: 6
+tag:regime jurídico: 2
+tag:ameaças. direito: 2
+tag:Hélder Pita Grós: 2
+tag:obrigações do tesouro: 2
+tag:provas forjadas: 1
+tag:gasolina: 3
+tag:refinaria: 3
+tag:novembro: 3
+tag:limpeza étnica: 1
+tag:concurso: 16
+tag:joão moita: 1
+tag:José Gomes Hata: 1
+tag:líquidas: 1
+tag:fan: 1
+tag:helicóptero: 1
+tag:saurimo: 1
+tag:lusófonos: 1
+tag:bricomil: 1
+tag:sabujice: 5
+tag:victor bandarra: 2
+tag:rui araújo: 3
+tag:colégio: 3
+tag:províncias: 11
+tag:chefe: 8
+tag:univerdades: 1
+tag:Sociedade civil: 3
+tag:cabazes: 2
+tag:rádio Ecclesia: 10
+tag:Index on Censorship: 4
+tag:Moda: 2
+tag:Nadir Tati: 2
+tag:arte: 22
+tag:candidato: 10
+tag:eleições presidenciais: 3
+tag:sacerdote: 1
+tag:cazenga: 5
+tag:lucro: 4
+tag:comércio. Miguel frasquilho: 2
+tag:recurso: 8
+tag:supremo: 17
+tag:jornadas parlamentares: 3
+tag:regedor: 1
+tag:cortes despesas: 1
+tag:filomeno vieira lopes: 1
+tag:raiografia: 1
+tag:cabinda. manifestação: 2
+tag:ordem pública: 2
+tag:lixívia: 1
+tag:rui machete. onu: 1
+tag:Rafael Moracen Limonta: 2
+tag:Erdogan: 6
+tag:Putin: 10
+tag:avião: 4
+tag:nova república: 2
+tag:aurélio cunha: 1
+tag:jn: 1
+tag:requiem: 1
+tag:semanário angolense: 2
+tag:fim: 4
+tag:lello: 2
+tag:livraria: 2
+tag:bic: 3
+tag:Universidade Roma Tre: 2
+tag:curso: 3
+tag:uea: 4
+tag:rubéola: 2
+tag:sono: 3
+tag:russos: 5
+tag:apiex: 4
+tag:títulos: 2
+tag:campanha: 54
+tag:gato: 6
+tag:numa: 9
+tag:mães: 7
+tag:biografia: 1
+tag:filipe fernandes: 1
+tag:nacionalidade: 7
+tag:princípios: 4
+tag:comunicações: 10
+tag:guiné telecom: 2
+tag:salas: 1
+tag:linha de crédito: 4
+tag:1993: 2
+tag:repúdio: 3
+tag:Economist: 2
+tag:tuberculose: 13
+tag:prospecções: 1
+tag:farelo: 6
+tag:geologia: 2
+tag:cnj: 3
+tag:colonialismo: 15
+tag:terras: 7
+tag:fartura: 2
+tag:brasileiros: 2
+tag:adelino de almeida: 1
+tag:clã presidencial: 2
+tag:maianga: 2
+tag:urbanismo: 2
+tag:refeições: 1
+tag:engenheiros: 2
+tag:descida: 1
+tag:subida: 1
+tag:detenções: 4
+tag:Gene Sharp: 3
+tag:publicação: 1
+tag:espectáculo: 3
+tag:corte: 4
+tag:produtos: 7
+tag:Michel Cahen: 1
+tag:historiador: 1
+tag:regme: 1
+tag:falência. regime: 1
+tag:ruptura: 1
+tag:prospecção: 1
+tag:concordóia: 1
+tag:esperança: 7
+tag:sonhos: 2
+tag:Sporting: 2
+tag:investigaçã: 2
+tag:fé: 5
+tag:peregrinação: 3
+tag:general numa: 1
+tag:licenças: 2
+tag:minerais: 2
+tag:suspende: 2
+tag:Samuel Chiwale: 1
+tag:reivindicações: 7
+tag:Mostra Internacional de Teatro: 2
+tag:artes: 2
+tag:espectáculos: 2
+tag:lista: 2
+tag:telefone: 1
+tag:caros: 1
+tag:balança: 3
+tag:consumismo: 3
+tag:humanismo: 1
+tag:novo ano: 1
+tag:islamistas: 2
+tag:terroristas: 6
+tag:joão maria de sousa: 11
+tag:trabalho infantil: 4
+tag:taxas: 2
+tag:transferência: 4
+tag:quotas: 1
+tag:acidentes: 4
+tag:Fernando Banze: 2
+tag:Nuno Castel-Branco: 2
+tag:Mariah Carey: 2
+tag:Nicki Minaj: 2
+tag:militante: 1
+tag:CDU: 2
+tag:mocidade portuguesa: 2
+tag:slazar: 2
+tag:cimeira: 12
+tag:tv zimbo: 3
+tag:divulgação: 2
+tag:Angel Carrilo: 1
+tag:Matondo José Carlos: 2
+tag:carne: 2
+tag:cidade do Porto: 1
+tag:rui moreira: 8
+tag:arlindo furtado: 1
+tag:cardeal: 1
+tag:dólares. abandonados: 2
+tag:cop21: 2
+tag:mudanças: 9
+tag:embaixadas: 8
+tag:reabertura: 2
+tag:colonial: 6
+tag:unicer: 1
+tag:candidatos: 14
+tag:derrotados: 2
+tag:Kulamosso: 1
+tag:Sapú II: 1
+tag:demolições: 13
+tag:apn: 4
+tag:semelhanças: 5
+tag:Ericsson. tecnologia: 1
+tag:Johns Hopkins: 2
+tag:Russel-Wood: 2
+tag:proposta: 9
+tag:angolanização: 2
+tag:currículo: 2
+tag:profissões: 2
+tag:atraso: 6
+tag:sexta-feira: 2
+tag:vandalismo: 4
+tag:cardeais: 1
+tag:Lusovini: 2
+tag:Pároco: 1
+tag:mentira: 16
+tag:vídeo: 6
+tag:mina: 1
+tag:aviões: 8
+tag:transferências: 1
+tag:xenofobia: 6
+tag:ruanda: 3
+tag:democacia: 2
+tag:2050: 2
+tag:inea: 4
+tag:projecção: 2
+tag:roubos: 11
+tag:ende: 4
+tag:60 anos: 3
+tag:41 anos: 3
+tag:ocupação: 9
+tag:estagnação: 8
+tag:evolução: 11
+tag:derrotas: 4
+tag:isaías samaluva: 2
+tag:duplicar: 1
+tag:arma: 2
+tag:criatividade: 2
+tag:escritas: 2
+tag:mudança: 10
+tag:palavras: 6
+tag:Roderick Nehone: 2
+tag:obra: 10
+tag:romancista: 2
+tag:dia: 4
+tag:povos: 6
+tag:carestia: 4
+tag:actualização: 5
+tag:cadernos: 2
+tag:eleitores: 10
+tag:inocentes: 5
+tag:Monarquia: 20
+tag:oportunismo: 6
+tag:regas: 2
+tag:anedodas: 1
+tag:complecos: 1
+tag:hugo chávez: 1
+tag:magno domingos: 2
+tag:palhaçada: 47
+tag:magno: 3
+tag:verbal: 1
+tag:factos: 2
+tag:agredidos: 2
+tag:tondela: 2
+tag:tribunal supremo: 13
+tag:testemunhas: 11
+tag:cmeço: 2
+tag:açúcar: 2
+tag:estatísticas: 5
+tag:manipulação: 58
+tag:truques: 8
+tag:gestores: 2
+tag:valter filipe: 2
+tag:doutor atum: 2
+tag:erca: 22
+tag:triologia: 2
+tag:suécia: 4
+tag:eduardo dos satos: 2
+tag:marcelo: 30
+tag:José Vilema: 4
+tag:orgulho: 4
+tag:boçalidade: 4
+tag:delírios: 4
+tag:colonizados: 2
+tag:complexo: 6
+tag:ingerências: 2
+tag:crença: 2
+tag:deus: 5
+tag:espírito: 2
+tag:existência: 2
+tag:Mary Robinson: 2
+tag:Omar al-Bashir: 2
+tag:sudão: 6
+tag:tpi: 8
+tag:retrocessos: 2
+tag:mira amaral: 3
+tag:respeito: 16
+tag:nino vieira: 4
+tag:engano: 2
+tag:perpetuação: 2
+tag:manuel arriga: 2
+tag:praça: 2
+tag:ferro: 6
+tag:fosfatos: 2
+tag:ordens: 10
+tag:ouro: 5
+tag:milagre: 3
+tag:activastas: 2
+tag:detidas: 2
+tag:nudez: 3
+tag:revoltas: 1
+tag:desespero: 14
+tag:totalitarismo: 2
+tag:arrogância: 3
+tag:falsidades: 1
+tag:caxipembe: 2
+tag:malte: 2
+tag:mandioca: 20
+tag:atum: 2
+tag:bifes: 3
+tag:pitrol: 2
+tag:sul-sfricanos: 4
+tag:doença: 24
+tag:urgente: 2
+tag:mata-bicho: 2
+tag:pão: 10
+tag:trigo: 4
+tag:clã: 14
+tag:exclusão: 6
+tag:erudito: 2
+tag:liceu: 2
+tag:português: 20
+tag:samuel: 2
+tag:ridículo: 4
+tag:offshores: 2
+tag:panama papers: 4
+tag:emprego: 13
+tag:ofertas: 1
+tag:alertas: 1
+tag:explicações: 3
+tag:reino unidos: 3
+tag:Nguesso: 2
+tag:eleição: 8
+tag:fraudes: 9
+tag:desculpa: 4
+tag:remendo: 2
+tag:espera: 6
+tag:assaltos: 3
+tag:criminalidade: 3
+tag:moradores: 5
+tag:balsemão: 2
+tag:expresso: 6
+tag:panama papers.bes. salgado: 2
+tag:sic: 34
+tag:centenas: 4
+tag:crueldade: 2
+tag:drama: 5
+tag:morgue: 4
+tag:resgate: 18
+tag:dívidas: 19
+tag:comitiva: 2
+tag:regima: 4
+tag:cemitérios: 2
+tag:fuzilamentos: 2
+tag:ladrões: 4
+tag:músico: 2
+tag:paulo flores: 6
+tag:refinarias: 2
+tag:retenção: 2
+tag:Indonésia: 1
+tag:interpol. china: 1
+tag:pior: 4
+tag:escutas: 1
+tag:espionagem: 1
+tag:grã-bretanha: 2
+tag:chamadas: 1
+tag:internet: 4
+tag:operadores: 1
+tag:tarifas: 3
+tag:telemóveis: 5
+tag:Wall Street: 4
+tag:corimba: 4
+tag:bandarra: 2
+tag:domínios: 2
+tag:especialistas: 2
+tag:guterres: 12
+tag:melhor: 2
+tag:pagamento: 8
+tag:protexto: 2
+tag:uniformes: 2
+tag:apartheid: 2
+tag:14 anos: 1
+tag:celebrações: 1
+tag:zuma: 6
+tag:Supremo Tribunal Federal: 2
+tag:inocência: 6
+tag:primavera árabe: 2
+tag:redes sociais: 5
+tag:Faustin Toauderá: 2
+tag:mexicanos: 2
+tag:pretos: 2
+tag:trump: 20
+tag:arruaceiros: 1
+tag:25 de abril: 2
+tag:fraccionismo: 4
+tag:crónicas: 1
+tag:joão: 3
+tag:melo: 2
+tag:febre-amarela: 46
+tag:estragos: 2
+tag:apagaões: 2
+tag:20 anos: 6
+tag:antónio ribeiro: 2
+tag:lusófonas: 2
+tag:notícias: 6
+tag:portugal em linha: 4
+tag:proliferação: 4
+tag:sindicatos: 2
+tag:revús: 11
+tag:independência. 41 anos: 1
+tag:putos: 2
+tag:perspectivas: 4
+tag:engenheira: 3
+tag:estações: 2
+tag:inverno: 2
+tag:outono: 2
+tag:tempo: 5
+tag:verão: 2
+tag:golpe deestado: 2
+tag:mpla. catanas: 2
+tag:esquadão da morte: 2
+tag:negociações: 6
+tag:zango: 26
+tag:assassinada: 4
+tag:forças de segurança: 2
+tag:general Wala: 4
+tag:assessores: 4
+tag:esbulhar: 2
+tag:ambiente: 5
+tag:preocupações: 3
+tag:cds: 20
+tag:José queirós alves: 2
+tag:arcebispo: 4
+tag:canhe: 2
+tag:miseráveis: 2
+tag:falta de vacinas: 2
+tag:mpla. bajulação: 1
+tag:sumptuosidade: 1
+tag:José Pedro Tonet: 2
+tag:ficção: 5
+tag:zé maria: 2
+tag:auditores: 2
+tag:colocação: 4
+tag:aproximação: 2
+tag:eleitos: 2
+tag:amgola: 4
+tag:autores: 2
+tag:tomás lima coelho: 4
+tag:avante angola: 2
+tag:manuel rui: 2
+tag:retrocesso: 6
+tag:Martin Luther King: 1
+tag:bons: 1
+tag:silêncio: 6
+tag:show: 2
+tag:patrão: 10
+tag:victor carvalho: 6
+tag:angoa: 1
+tag:humabom: 2
+tag:isabel: 37
+tag:sonangol negociatas: 2
+tag:compreensão: 2
+tag:economia. crescimento: 1
+tag:batota: 6
+tag:gappa: 2
+tag:hipocrisia: 25
+tag:socialistas: 3
+tag:Kadhafi: 2
+tag:receio: 4
+tag:euros: 4
+tag:herdeira: 5
+tag:princesa: 5
+tag:sonangol isabel: 1
+tag:trono: 3
+tag:desespeto: 2
+tag:inagbe: 2
+tag:subsídios: 6
+tag:genocida: 2
+tag:adiamentos: 3
+tag:amões: 2
+tag:burrice: 2
+tag:morto: 6
+tag:opressão: 6
+tag:domónio: 4
+tag:contaste: 1
+tag:conversações: 2
+tag:nazita: 2
+tag:tibete: 1
+tag:simulambuco: 9
+tag:UCID: 2
+tag:pts: 2
+tag:recenseamento: 7
+tag:cgd: 2
+tag:ecclesia: 3
+tag:submissão: 4
+tag:preocupação: 1
+tag:cancro: 4
+tag:hipermercado: 2
+tag:candonga: 4
+tag:elefante branco: 10
+tag:tretas: 25
+tag:alimentação: 6
+tag:carneiros: 4
+tag:gregários: 2
+tag:obesos: 2
+tag:zootécnico: 2
+tag:carros: 7
+tag:sobrevivência: 12
+tag:jonas avimbi: 2
+tag:Emmanuel Nzita: 8
+tag:flec-fac: 14
+tag:bajulador: 4
+tag:gildo: 2
+tag:ignrância: 2
+tag:rufino: 16
+tag:wala: 4
+tag:Francisco viena: 2
+tag:saudação: 1
+tag:dia mundial: 4
+tag:chivukuvuku: 18
+tag:abusos: 6
+tag:cônsul: 2
+tag:rosário ceita: 2
+tag:cereais: 6
+tag:25 mortos: 2
+tag:fiéis: 3
+tag:kalupeeka: 2
+tag:todos homens: 2
+tag:chevron: 6
+tag:metiras: 4
+tag:secretário-geral: 8
+tag:trocas: 2
+tag:marfim chinês: 2
+tag:Isabel dos santo: 2
+tag:concurso público: 2
+tag:Carlos Guerra Júnior: 4
+tag:resistência.música: 2
+tag:julgamento. farsa: 2
+tag:combates: 8
+tag:esclavagismo: 2
+tag:ximenes belo: 2
+tag:indemnização: 2
+tag:injustiça: 4
+tag:disparates: 2
+tag:luísa damião: 2
+tag:recados: 2
+tag:comunistas: 2
+tag:coração: 2
+tag:indiferença: 2
+tag:neporismo: 6
+tag:riquezes: 2
+tag:rei: 37
+tag:baixa de cassange: 2
+tag:versões: 2
+tag:coronel: 2
+tag:pistola: 2
+tag:Lula da Silva: 2
+tag:defex: 2
+tag:secretariado: 2
+tag:sede: 4
+tag:2025: 2
+tag:trabakho infantil: 2
+tag:cor: 2
+tag:pena de morte: 6
+tag:zero: 2
+tag:bita: 2
+tag:residências: 2
+tag:rotas: 10
+tag:atletas: 2
+tag:participação: 2
+tag:aposta: 4
+tag:fábricas. luxo: 2
+tag:cronistas: 1
+tag:crónica: 1
+tag:texto: 1
+tag:cidadania: 7
+tag:bruxelas: 4
+tag:dago: 1
+tag:Sucessão: 25
+tag:divino: 8
+tag:interior: 8
+tag:populações: 2
+tag:poços: 2
+tag:rurais: 4
+tag:américo Thomaz: 2
+tag:cambambe: 2
+tag:feitos: 2
+tag:casa-ce. trabalhos: 1
+tag:fotos: 1
+tag:dia 26: 2
+tag:legalidade: 14
+tag:Carvalho: 4
+tag:carlos pacheco: 6
+tag:neto: 10
+tag:cuito cuanavel: 2
+tag:civismo: 10
+tag:objectivos: 2
+tag:ja: 16
+tag:ccrítica: 1
+tag:regimes: 3
+tag:motoristas: 1
+tag:ordenados: 5
+tag:epidemias: 8
+tag:reformas: 4
+tag:roménia: 3
+tag:despejo idoso: 1
+tag:ilegal: 2
+tag:responsáveis: 2
+tag:um ano: 1
+tag:bembe: 2
+tag:suicidas: 2
+tag:zonas rurais: 2
+tag:404 quilates: 3
+tag:diamante: 5
+tag:lucapa: 3
+tag:recorde: 3
+tag:exportaçãp: 2
+tag:administrador: 4
+tag:cabinda.desvio: 2
+tag:febre-amerela: 2
+tag:agenda: 2
+tag:friends of angola: 4
+tag:migrantes: 1
+tag:hierarquia: 1
+tag:padres: 2
+tag:estado da nação: 2
+tag:marionete: 1
+tag:comodismo: 1
+tag:ideias: 3
+tag:resistência: 12
+tag:condenção: 2
+tag:guerra. regime: 1
+tag:diversificar: 2
+tag:pública: 3
+tag:ben ben: 4
+tag:cauango: 2
+tag:sem dinheiro: 2
+tag:custo: 4
+tag:suspeições: 2
+tag:vice-presidente: 6
+tag:guerra civil: 2
+tag:protectorado: 6
+tag:gozo: 22
+tag:quimeras: 2
+tag:Sedrick Carvalho: 2
+tag:luvualo: 2
+tag:regime. ditadura: 4
+tag:cabila: 2
+tag:região: 4
+tag:solução: 2
+tag:depoimento: 2
+tag:antónio fortunado: 2
+tag:deslocação: 2
+tag:serviços: 4
+tag:conselheiro: 2
+tag:estêvão alberto: 2
+tag:pubreza: 2
+tag:direita: 2
+tag:Quintino Candange: 1
+tag:padre: 1
+tag:albino: 1
+tag:curandeiros: 1
+tag:magias: 1
+tag:preconceitos: 1
+tag:órgão: 1
+tag:banguela: 2
+tag:internamento: 3
+tag:urgência: 3
+tag:engola: 2
+tag:bajulaçãp: 4
+tag:frete: 2
+tag:cargo: 1
+tag:assistências: 2
+tag:humanitária: 2
+tag:arrogantes: 1
+tag:infelizes: 1
+tag:oco: 1
+tag:pretensioso: 1
+tag:vazio: 3
+tag:progresso: 14
+tag:António ferreira: 2
+tag:Rosabeth Miguel: 2
+tag:castelo branco: 2
+tag:rádiop Portugal: 2
+tag:infanti-juvenil: 2
+tag:ditadura.luta: 1
+tag:fogo: 3
+tag:sapos: 3
+tag:tabela: 2
+tag:ine: 3
+tag:kopelipa: 31
+tag:palhaços: 2
+tag:pca: 7
+tag:Human Rights Watch: 5
+tag:miragem: 2
+tag:reino: 14
+tag:can: 4
+tag:degradação: 8
+tag:estádio: 2
+tag:gerador: 2
+tag:tundavala: 2
+tag:calamidade: 2
+tag:tribubnal: 1
+tag:vale tudo: 3
+tag:caluquembe: 4
+tag:segregação: 4
+tag:manufestação: 1
+tag:sofrimento: 6
+tag:abandono: 12
+tag:monopólio: 4
+tag:iraque: 12
+tag:negócio: 12
+tag:eugénia neto: 2
+tag:confiança: 3
+tag:miopia: 1
+tag:evasão: 2
+tag:espaço: 10
+tag:esgotadas: 1
+tag:febre-amerala. vacinas: 1
+tag:feudo: 4
+tag:gasosa: 6
+tag:normalidade: 2
+tag:passividade: 12
+tag:ibéria: 1
+tag:trabalhador: 2
+tag:notificações: 1
+tag:anfíbios: 2
+tag:atlas: 2
+tag:espécies: 2
+tag:jacaré: 2
+tag:lagosta: 18
+tag:répteis: 2
+tag:higiene: 4
+tag:porpagação: 2
+tag:novos casos: 8
+tag:infecção: 2
+tag:elefate branco: 2
+tag:felino: 2
+tag:treino: 2
+tag:via expresso: 2
+tag:barbaridade: 1
+tag:general Paka: 1
+tag:flec. faa: 2
+tag:independêbcia: 2
+tag:nunda: 19
+tag:guerrilha. combates: 2
+tag:flec/fac. silêncio: 2
+tag:madeireiros: 2
+tag:cabinda. militares: 2
+tag:situação: 4
+tag:soberania: 3
+tag:tratado: 3
+tag:nzita tiago: 6
+tag:recomendação: 1
+tag:brasileiro: 2
+tag:recomendar: 2
+tag:ricardo velloso: 2
+tag:Abebe Selassie: 2
+tag:falhanços: 2
+tag:perito: 2
+tag:consultas: 2
+tag:bombeiro: 2
+tag:incendiário: 2
+tag:al-qaida: 2
+tag:bin laden: 2
+tag:bush: 2
+tag:daesh: 2
+tag:cuanza sul: 2
+tag:sobrinhos: 2
+tag:António Manuel Ribeiro: 2
+tag:idoneidade: 4
+tag:isabe dos santos: 3
+tag:esgoto: 2
+tag:podridão: 2
+tag:galp: 3
+tag:adolfo rasoilo: 2
+tag:luís rasoilo: 2
+tag:vigarices: 10
+tag:gerações: 2
+tag:individualismo: 2
+tag:fmi. angola: 2
+tag:áfrica dosul: 2
+tag:gigantes: 2
+tag:pigmeus: 2
+tag:Tchizé: 10
+tag:globalização: 4
+tag:transparência. paraísos fiscais: 2
+tag:tributação fiscal: 2
+tag:promessas crise: 2
+tag:máquina: 4
+tag:Suninvest: 1
+tag:angomédica: 1
+tag:capacidade: 3
+tag:encontros: 2
+tag:manuel rabelais: 2
+tag:semanais: 2
+tag:médios: 4
+tag:paludismo: 4
+tag:graciano domingos: 2
+tag:substituição: 4
+tag:grandes: 2
+tag:lagos: 2
+tag:pca. intimidação: 2
+tag:desculpas: 12
+tag:civis: 3
+tag:crítica: 6
+tag:Bernice Burgos: 2
+tag:Tchizé dos santos: 4
+tag:decência: 2
+tag:moralidade: 2
+tag:regie: 1
+tag:Alberto Oliveira Pinto: 4
+tag:desafio: 1
+tag:farra: 4
+tag:genro: 2
+tag:casa dos rapazes: 1
+tag:norton de matos: 1
+tag:vicentes ferreira: 1
+tag:archer mangueira: 8
+tag:nora: 2
+tag:prédio: 2
+tag:adão adriano antónio: 1
+tag:vice-pgr: 1
+tag:registo eleiroral: 2
+tag:calma: 2
+tag:correria: 2
+tag:pressa: 4
+tag:viver: 2
+tag:divina: 2
+tag:electrotécnica: 2
+tag:única: 2
+tag:sonangol-produção: 2
+tag:banco de portugal: 3
+tag:zanga: 2
+tag:fortunas: 2
+tag:regime.bens: 1
+tag:espanholização: 2
+tag:mpla. tribunal: 4
+tag:sindika: 5
+tag:estupidez: 2
+tag:ko: 3
+tag:clã dos Santos: 2
+tag:vitalício: 2
+tag:Elias xavier: 1
+tag:despertar: 1
+tag:suicídio: 1
+tag:formatação: 4
+tag:ditadura. regime: 2
+tag:mordaça: 10
+tag:direitos humanos amizade: 1
+tag:cobertura: 8
+tag:julgamentos: 4
+tag:Miguel Francisco: 2
+tag:caso 15+2: 2
+tag:julgamento regime: 1
+tag:kalupetaka: 4
+tag:sentenças: 2
+tag:casa-ce. cabinda: 1
+tag:pacificação: 4
+tag:kadafi: 2
+tag:vómitos: 2
+tag:28 anos: 2
+tag:poeira: 2
+tag:ketchup: 1
+tag:tomate: 1
+tag:patacas: 2
+tag:gestão danosa: 2
+tag:Kota Gindungu: 2
+tag:cunhado: 2
+tag:passaporte diplomático: 2
+tag:Kussumua: 1
+tag:aviso: 5
+tag:funcionários: 7
+tag:repto: 4
+tag:ana paula: 2
+tag:lunar: 2
+tag:peixe: 3
+tag:pescar: 1
+tag:colectânea: 2
+tag:financeira: 2
+tag:patónio: 4
+tag:The Washington Post: 2
+tag:eua. detidos: 2
+tag:dificuldade: 2
+tag:instintos: 2
+tag:natureza: 6
+tag:rural: 2
+tag:ecpnomia: 2
+tag:externo: 2
+tag:utap: 2
+tag:Kiesse/Olo: 2
+tag:editora: 2
+tag:referendo: 2
+tag:megalomania: 8
+tag:dirigentes: 8
+tag:paulo kassoma: 2
+tag:Jean Claude Nzita: 1
+tag:actuação: 1
+tag:espectéculo: 1
+tag:rua: 5
+tag:250 milhões: 2
+tag:língua: 10
+tag:jomo: 2
+tag:primatas: 2
+tag:marginalizado: 2
+tag:humanos: 2
+tag:transmissão: 6
+tag:esbanjamento: 4
+tag:hospital: 18
+tag:baixa: 2
+tag:barris: 1
+tag:petróleo. gás: 1
+tag:poluição: 2
+tag:usurpação: 4
+tag:Eduane Danilo: 2
+tag:móvel: 2
+tag:operadora: 2
+tag:protecção: 8
+tag:404: 2
+tag:De Grisogono: 6
+tag:évora: 2
+tag:electrotecnia: 2
+tag:zoologia: 2
+tag:bajuladores: 8
+tag:aldrabice: 9
+tag:apoiop: 1
+tag:magistrado: 2
+tag:esvaziamento: 2
+tag:imposição: 6
+tag:cdm: 1
+tag:coligação democrática de mudança: 1
+tag:Marcelo rebelo de sousa: 12
+tag:posse: 18
+tag:fabrico: 2
+tag:maquiavel: 1
+tag:menezes cassoma: 3
+tag:fânzeres: 2
+tag:homem: 2
+tag:meirim: 2
+tag:soares novais: 2
+tag:treinador: 2
+tag:2010: 2
+tag:abandonadas: 2
+tag:bengo: 4
+tag:privatização: 8
+tag:racionalização: 2
+tag:zee: 2
+tag:Merck: 2
+tag:Praziquantel: 2
+tag:comprimidos: 2
+tag:esquistossomose: 2
+tag:farsas: 1
+tag:banqueiros: 2
+tag:ulrich: 2
+tag:eternidade: 3
+tag:saída. 2018: 1
+tag:união dos escritores: 1
+tag:epidema: 2
+tag:instrutores: 2
+tag:SOS Habitat: 2
+tag:Gomes sambo: 2
+tag:veiga tavares: 1
+tag:recusa: 3
+tag:congresso petróleo: 1
+tag:economia. bob geldof: 1
+tag:egime: 2
+tag:comunismo: 2
+tag:mediação: 4
+tag:almeida santos: 2
+tag:alvor: 6
+tag:traição: 6
+tag:fundador: 1
+tag:lúcio lara: 3
+tag:nacionalista: 1
+tag:alternância: 4
+tag:maioria absoluta: 2
+tag:Manuel Bissopo: 2
+tag:aliciamento: 1
+tag:divir: 1
+tag:reinar: 1
+tag:mat: 4
+tag:inimigo: 2
+tag:agosto: 8
+tag:conciliação: 2
+tag:ortodoxos: 2
+tag:alcoolismo: 1
+tag:incentivo: 1
+tag:pds: 2
+tag:delegados: 4
+tag:escolha: 11
+tag:figurantes: 2
+tag:simulacro: 2
+tag:comité central angola: 1
+tag:adversários: 1
+tag:laico: 2
+tag:partidarização: 2
+tag:Nelson Sahuma: 2
+tag:lukamba gato: 4
+tag:unita. mpla. trump: 2
+tag:nacionalismo: 1
+tag:pide: 3
+tag:açores: 2
+tag:inimigos: 8
+tag:organizalão: 2
+tag:edital: 1
+tag:notificação: 1
+tag:testemunha: 1
+tag:adn: 4
+tag:albinismo: 2
+tag:maldição: 2
+tag:perigos: 2
+tag:largada: 2
+tag:preidente: 2
+tag:nandó: 3
+tag:parlamentos: 1
+tag:direitos gumanos: 4
+tag:novo partido: 1
+tag:cobrança: 2
+tag:avisos: 4
+tag:dinheiros: 2
+tag:simpatizantes: 4
+tag:Millennium: 2
+tag:autorização: 2
+tag:privado atlêntico: 2
+tag:inclusão: 6
+tag:falácia: 2
+tag:transição: 3
+tag:opositores: 4
+tag:cópias: 3
+tag:seguidores: 1
+tag:vencedores: 2
+tag:ampulheta: 2
+tag:presente: 4
+tag:fracasso: 2
+tag:1886: 2
+tag:aceias: 2
+tag:críticas regime: 2
+tag:suporlotadas: 2
+tag:credibilidade: 7
+tag:recuperar: 2
+tag:nuno dala: 9
+tag:lançamento: 8
+tag:figa: 2
+tag:lauro moreira: 2
+tag:adolescentes: 2
+tag:gravidez: 2
+tag:flec/fac. cabinda: 2
+tag:George Chicoty: 2
+tag:27 maio: 1
+tag:viúva: 3
+tag:ali: 2
+tag:demagogia: 32
+tag:luvyau: 2
+tag:washington: 4
+tag:desilusão: 10
+tag:estertor: 4
+tag:luandino: 2
+tag:reorganização: 2
+tag:êxitos: 4
+tag:dia internacional: 4
+tag:dos antos: 2
+tag:mihões: 2
+tag:transparente: 2
+tag:filha: 1
+tag:futuro ebooks: 2
+tag:prazer: 4
+tag:general vietnam: 2
+tag:brandy: 1
+tag:revolucionários: 1
+tag:zémaria: 1
+tag:mais dinheiro: 2
+tag:ocultação: 6
+tag:cartola: 2
+tag:coelho: 2
+tag:filósofo: 2
+tag:mágico: 2
+tag:fictício: 2
+tag:movimentos: 2
+tag:olho: 2
+tag:real: 2
+tag:oito anos: 2
+tag:preventiva: 2
+tag:aberração: 3
+tag:apodrecer: 1
+tag:lulgamento: 2
+tag:flor: 2
+tag:hiena: 2
+tag:leão: 2
+tag:macaco: 2
+tag:palanca: 2
+tag:melro: 2
+tag:rpisões: 1
+tag:acção: 4
+tag:cidadão: 2
+tag:mitante: 2
+tag:pensamento: 2
+tag:progaganda: 2
+tag:Oxfam: 2
+tag:doações: 2
+tag:cazengo: 2
+tag:março 2015: 2
+tag:matumbos: 16
+tag:social: 6
+tag:reciclagem: 2
+tag:Aline: 1
+tag:ribeiro: 3
+tag:derramas: 2
+tag:mar: 4
+tag:casa-ce. debate: 2
+tag:morosidade: 1
+tag:debilidades: 2
+tag:marfim: 3
+tag:centralização: 2
+tag:clinton: 2
+tag:bobos: 2
+tag:inoperacionalidade: 2
+tag:tachos: 20
+tag:afectos: 2
+tag:asneiras: 4
+tag:macacada: 2
+tag:montanha: 2
+tag:espiões: 2
+tag:estupidez. matumbos: 2
+tag:gmai: 2
+tag:mensagens: 4
+tag:fantoches: 2
+tag:sobreviver: 8
+tag:ingerência: 1
+tag:fretes: 1
+tag:ignorência: 1
+tag:endinheirados: 2
+tag:fantasma: 8
+tag:morque: 2
+tag:ex-taxista: 2
+tag:Wacussanga: 1
+tag:15+2: 3
+tag:Bendito Jeremias Dali: 1
+tag:explosão: 2
+tag:popular: 2
+tag:Gustave Eiffel: 2
+tag:museu: 2
+tag:palácio: 2
+tag:palavra: 2
+tag:porto editora: 2
+tag:saturação: 2
+tag:supremo tribunal: 9
+tag:recessao: 4
+tag:humanitário: 1
+tag:matumbo: 2
+tag:mercenário: 9
+tag:farinha: 4
+tag:clientelas: 2
+tag:doutores: 2
+tag:intelectuais: 2
+tag:parabéns: 3
+tag:intelectual: 2
+tag:prestígio: 2
+tag:fabricantes: 2
+tag:btanqueamento: 2
+tag:regime. mentiras: 2
+tag:cúmplices: 2
+tag:identificação: 2
+tag:primeira dama: 2
+tag:registo crimonal: 2
+tag:patissa: 2
+tag:favores: 2
+tag:petrolíferas: 3
+tag:artesnal: 2
+tag:dona: 2
+tag:petro: 2
+tag:Fundação Bertelsmann: 2
+tag:pilhagem: 2
+tag:liberdades: 9
+tag:aplicação: 2
+tag:estudos: 2
+tag:matemática: 2
+tag:escolar: 2
+tag:tiros: 6
+tag:propinas: 2
+tag:delinquente: 4
+tag:esposa: 2
+tag:arquivamento: 7
+tag:legitimidade: 1
+tag:lavandarias: 2
+tag:martins da cruz: 5
+tag:centros comerciais: 2
+tag:cidadãos: 10
+tag:autocarro: 1
+tag:realojamento: 1
+tag:eduardo white: 2
+tag:flad: 2
+tag:pulhice: 4
+tag:sucesso: 6
+tag:vencedor: 2
+tag:dia da criança: 2
+tag:deportação: 4
+tag:casa-ce. palestras: 1
+tag:nova aurora: 1
+tag:Alexandre Garbuze: 1
+tag:engenharia: 1
+tag:professor: 1
+tag:ucraniano: 1
+tag:dash: 2
+tag:digital: 2
+tag:kassinga: 2
+tag:minérios: 4
+tag:fantochada: 12
+tag:corrupçaão: 2
+tag:erro: 2
+tag:pulitzar: 2
+tag:ps.psd: 2
+tag:chissano: 2
+tag:extinção: 4
+tag:tartarugas: 2
+tag:govermador: 2
+tag:negociata: 2
+tag:causas: 2
+tag:Miroslav Lajcak: 2
+tag:eslováquia: 2
+tag:tirano: 2
+tag:promesses: 2
+tag:unita. samakuva: 2
+tag:seguranças: 2
+tag:álbum: 2
+tag:resposta: 3
+tag:carismático: 2
+tag:messi: 2
+tag:ronaldo: 2
+tag:Peter Hill: 4
+tag:direitos huanos: 1
+tag:vadios: 2
+tag:galinheiro: 2
+tag:raposa: 2
+tag:calueque: 2
+tag:plano nacional: 2
+tag:estado de direito: 12
+tag:Recados de cá: 2
+tag:caboxa: 1
+tag:reclusos: 3
+tag:sobrelotação: 1
+tag:maquilhagem: 1
+tag:açaimo: 1
+tag:recado: 1
+tag:humambo: 2
+tag:incómodo: 2
+tag:queirós alves: 2
+tag:detenção. zango: 2
+tag:guardas: 3
+tag:criança assassinada: 4
+tag:déspota: 4
+tag:Israel: 4
+tag:coacção: 2
+tag:empregos: 2
+tag:fascistas: 1
+tag:julgamentp: 1
+tag:leis coloniais: 1
+tag:casa: 4
+tag:manoel de olivieira: 1
+tag:eua. direitos humanos: 2
+tag:portas: 2
+tag:sócrates: 2
+tag:remodelação: 4
+tag:regalias: 4
+tag:aparência: 1
+tag:conteúdos: 1
+tag:república: 4
+tag:daniel oliveira: 2
+tag:pacheco pereira: 2
+tag:Ekundi Chissolukombe: 2
+tag:juvntude: 2
+tag:radicalismo: 2
+tag:islamismo: 7
+tag:áfria: 1
+tag:Angola | Rui Moreira ou a ignorância lusa: 1
+tag:postura: 1
+tag:pravd: 2
+tag:rafeiro: 2
+tag:bicesse: 4
+tag:darfur: 1
+tag:genocídios: 1
+tag:pwC: 1
+tag:sarju: 1
+tag:megalomanias: 6
+tag:planos: 2
+tag:82 anos: 1
+tag:mulatos: 1
+tag:colheitas: 2
+tag:cobertra: 2
+tag:seguradoras: 2
+tag:sinistros: 2
+tag:direito de resposta. Aon angola: 1
+tag:censos: 2
+tag:cidades: 2
+tag:metas: 4
+tag:divisas kinguilas: 2
+tag:pediatria: 4
+tag:criminalidade. combate: 2
+tag:sequestradores: 4
+tag:HIV: 12
+tag:coragem: 2
+tag:Hillary clinton: 2
+tag:africanos: 2
+tag:kofi annan: 2
+tag:Presidente mdm: 2
+tag:miçambique: 2
+tag:sogro: 2
+tag:eduardo dos samtos: 4
+tag:Nhany: 2
+tag:el mundo: 2
+tag:alma: 6
+tag:instantes: 2
+tag:mudar: 2
+tag:roubalheira: 5
+tag:baptista sumbe. angola: 2
+tag:incumprimentos: 2
+tag:internacionais: 2
+tag:mercados: 2
+tag:desconfiança: 2
+tag:caricaturas: 4
+tag:disparidades: 2
+tag:empresas públicas: 2
+tag:Otawa: 1
+tag:convenção: 1
+tag:prazo: 1
+tag:prorrogação: 1
+tag:truque: 2
+tag:chitotolo: 2
+tag:desivio: 2
+tag:sumbula: 2
+tag:anonimato: 2
+tag:mediatismo: 2
+tag:recato: 2
+tag:encerramento: 6
+tag:fecho: 2
+tag:maná: 2
+tag:devolução: 2
+tag:aviões parados: 2
+tag:primaveres: 2
+tag:oms. saúde: 4
+tag:taxis: 2
+tag:Wesa: 2
+tag:entados: 2
+tag:13 anos: 2
+tag:pen.drive: 2
+tag:puto: 2
+tag:oportunidade: 2
+tag:pedro chicaia: 2
+tag:Caholo: 2
+tag:David cameron: 2
+tag:Margaret Thatcher: 4
+tag:Theresa May: 2
+tag:portugal cplp: 2
+tag:correios: 1
+tag:território: 1
+tag:toponia: 1
+tag:Lundas: 1
+tag:gráfica: 1
+tag:medianova: 1
+tag:três milhões: 1
+tag:Angoalissar: 2
+tag:Mpindi André: 2
+tag:evaristo carvalho: 2
+tag:hiperinflação: 2
+tag:98%: 2
+tag:voto: 8
+tag:luandina: 1
+tag:majestade: 3
+tag:sagres: 1
+tag:santa: 1
+tag:alimento: 2
+tag:padarias: 4
+tag:adalberto costa júnior: 2
+tag:cubal: 2
+tag:um morto: 2
+tag:milícias: 4
+tag:populares: 6
+tag:omissão: 2
+tag:sobreposição: 2
+tag:deserções: 4
+tag:funeral: 4
+tag:aparelhos: 1
+tag:movicel: 3
+tag:crises: 2
+tag:urbanização: 2
+tag:executivo: 2
+tag:gratuita: 2
+tag:vcina: 2
+tag:Camarões: 2
+tag:Togo: 4
+tag:brincadeira: 2
+tag:meninos: 2
+tag:organização: 2
+tag:brincar: 1
+tag:desentendimento: 1
+tag:secretário executivo: 1
+tag:constitucional: 4
+tag:Sinfic: 9
+tag:carregamentos: 2
+tag:sinopec: 2
+tag:vigarice: 6
+tag:heroína: 2
+tag:morro do moco: 2
+tag:condições: 2
+tag:hienas: 1
+tag:poleiro: 1
+tag:+adres: 1
+tag:dwáfrica: 2
+tag:rotação: 2
+tag:tonet: 4
+tag:kakila: 2
+tag:zamba: 2
+tag:consultoria: 2
+tag:elitistas: 2
+tag:identidade: 6
+tag:tradições: 2
+tag:traições: 2
+tag:clientelismo: 2
+tag:inaugurações: 4
+tag:funcionário púbico: 1
+tag:recadastramento: 1
+tag:contenção verbal: 2
+tag:monistro: 2
+tag:eméritos: 4
+tag:ex-presidentes: 4
+tag:instituições: 6
+tag:Elina Fraga: 2
+tag:activismo: 2
+tag:cólera: 6
+tag:higeine: 2
+tag:zika: 4
+tag:projecções: 2
+tag:depressão: 2
+tag:prioridade: 2
+tag:maria manuela rocha: 2
+tag:aproveitamento: 2
+tag:ciultura: 2
+tag:Jean-Claude Bastos: 2
+tag:Schillings: 4
+tag:dublin: 2
+tag:exonerações: 31
+tag:telecom: 2
+tag:arrasar: 2
+tag:construir: 2
+tag:nomeações: 5
+tag:algodão: 2
+tag:cassange: 2
+tag:dor: 2
+tag:visões: 2
+tag:ortografia: 4
+tag:vocabulário: 2
+tag:frente cívica: 8
+tag:transparência e integridade: 2
+tag:Kilamba Kiaxi: 2
+tag:indra: 10
+tag:ingenuidade: 2
+tag:colonizado: 2
+tag:colonizador: 2
+tag:anaso: 2
+tag:dísticos: 4
+tag:arquive-se: 2
+tag:ultimato: 2
+tag:boatos: 2
+tag:especulações: 2
+tag:tratados: 2
+tag:42 anos: 4
+tag:bel neto: 2
+tag:poetisa: 2
+tag:contrafeitos: 2
+tag:remédios: 2
+tag:diáspora: 7
+tag:corão: 2
+tag:espacial: 2
+tag:contacto: 2
+tag:ambição: 6
+tag:febre-amarela. angola: 2
+tag:atrasos. dívidas: 1
+tag:fantasmas. roubos: 1
+tag:pensões: 1
+tag:António Tomás: 2
+tag:columbia: 2
+tag:azeredo lopes: 4
+tag:erc: 4
+tag:memórias: 2
+tag:recordações: 2
+tag:mutindi. governador: 2
+tag:soba: 2
+tag:imprensa nacional: 1
+tag:arroz: 6
+tag:celeiro: 4
+tag:fidelidade. sipaio: 2
+tag:criação: 2
+tag:imaginação: 2
+tag:sentimentos: 2
+tag:pacatolo: 2
+tag:burguesia: 2
+tag:comício: 8
+tag:eleições. anedotas: 2
+tag:andrade mpla: 2
+tag:iko: 2
+tag:lúcio: 2
+tag:viriato: 2
+tag:boçal: 2
+tag:vitinho: 2
+tag:integridade: 3
+tag:captuta: 2
+tag:espécie: 2
+tag:pescadores: 2
+tag:belmiro de azevedo: 4
+tag:competência: 2
+tag:pbiang: 2
+tag:anexo: 2
+tag:Goebbels: 2
+tag:ladrões. galinhas: 2
+tag:raposas: 2
+tag:emérito: 12
+tag:ilusão: 4
+tag:ganância: 2
+tag:rendição: 12
+tag:máquinas: 2
+tag:auditoria: 3
+tag:carlos saturnino: 6
+tag:Abel Chivukuvuku. mentiras: 2
+tag:facebook: 2
+tag:montagem: 2
+tag:camuflagem: 2
+tag:anhola: 2
+tag:lourenço: 20
+tag:seixas da costa: 4
+tag:danilo: 4
+tag:ditatura: 2
+tag:relógio: 2
+tag:banco da china: 2
+tag:sucursal: 2
+tag:kangambas: 4
+tag:donos: 4
+tag:indignação: 4
+tag:burocracias. democracia: 2
+tag:beija-mão: 2
+tag:lugares-comuns: 2
+tag:comícios: 4
+tag:opsa: 2
+tag:deserção: 2
+tag:Yahya Jammeh: 2
+tag:vilanagem: 2
+tag:regras: 6
+tag:prendas: 2
+tag:teorias: 4
+tag:pluralismo: 2
+tag:pinochet: 2
+tag:seriedade: 4
+tag:assalariados: 2
+tag:chefias: 2
+tag:kopelioa: 2
+tag:verdades. mpla: 2
+tag:congoleses: 4
+tag:bp: 2
+tag:calote: 2
+tag:chipala: 4
+tag:escolhido: 2
+tag:cooperativas: 2
+tag:escolhas: 6
+tag:sessão: 2
+tag:autocarros: 2
+tag:mobilidade: 2
+tag:ruas: 6
+tag:antunes huambo: 6
+tag:invertebrados: 2
+tag:mordomias: 10
+tag:pastor: 6
+tag:viatura: 2
+tag:fraue: 2
+tag:resultados: 30
+tag:2012: 6
+tag:ausência: 4
+tag:casa-ce. partido: 2
+tag:joão loirenço: 2
+tag:aceitação: 2
+tag:toalha ao chão: 2
+tag:comissário: 4
+tag:alicerces: 2
+tag:mesmices: 4
+tag:telhado: 2
+tag:cem dias: 2
+tag:anestesistas: 2
+tag:lucrécia paim: 2
+tag:partos: 4
+tag:descalabro: 2
+tag:desmobilizados: 4
+tag:desaceleração: 2
+tag:ocupação. flec-fac: 2
+tag:boicote: 2
+tag:distribuidores: 2
+tag:aparato: 4
+tag:embalagem: 2
+tag:essencial: 2
+tag:govermo: 2
+tag:mesmice: 12
+tag:aço: 2
+tag:siderurgia: 2
+tag:sucatas: 2
+tag:bolas: 2
+tag:peso: 2
+tag:sorteio: 4
+tag:provisórios: 2
+tag:abuso: 4
+tag:assembleias: 2
+tag:residência: 2
+tag:votos: 6
+tag:soyo: 2
+tag:danosa: 2
+tag:manico: 4
+tag:presidência: 2
+tag:angola. oposição: 2
+tag:campo: 4
+tag:competição: 2
+tag:resultado: 2
+tag:adão adriano: 2
+tag:monopólios: 2
+tag:telecomunicações: 4
+tag:contagem: 9
+tag:lanternas: 1
+tag:descentralização: 4
+tag:subnutrição: 2
+tag:vistos golf: 2
+tag:nepotismo. dutadura: 2
+tag:entrevista. william tonet: 2
+tag:rdp áfrica: 2
+tag:sincronização: 2
+tag:guiné equatorial. mentiras: 2
+tag:esquecimento: 2
+tag:consulados: 2
+tag:diplomatas: 6
+tag:navios: 2
+tag:cupet: 2
+tag:dinossauros: 2
+tag:batlha: 2
+tag:cuito cuanave: 2
+tag:chuva: 2
+tag:desabamentos: 2
+tag:esgotos: 2
+tag:nativos: 2
+tag:barrica: 4
+tag:assassinatos. regimes: 2
+tag:Deficientes: 2
+tag:esmola: 2
+tag:mendicidade: 2
+tag:mpla. pobreza: 2
+tag:titulares: 2
+tag:dciap. ministério público: 2
+tag:angolanos heróis: 2
+tag:Ambrósio Lukoki: 4
+tag:eduardo dos santos. mpla: 2
+tag:irene neto: 4
+tag:nurla: 2
+tag:amigalhaços: 2
+tag:Portmill: 2
+tag:kamalata numa: 4
+tag:trajecto: 2
+tag:Caculo Cabaça: 2
+tag:busto: 2
+tag:malando: 2
+tag:petróleo. riquezas: 2
+tag:ansiedade: 2
+tag:nepotismo. mordaça: 2
+tag:holdem roberto: 2
+tag:benefícios: 2
+tag:feriado: 2
+tag:manifesto: 4
+tag:mfa: 2
+tag:listas: 7
+tag:unita. casa-ce: 2
+tag:cumprimentos: 2
+tag:mpla. decano: 2
+tag:greves: 2
+tag:patrões: 2
+tag:acção social: 2
+tag:provedor: 2
+tag:angolano: 4
+tag:ditadpr: 2
+tag:Bloomberg: 2
+tag:acólitos: 8
+tag:bloqueio: 2
+tag:dstv: 4
+tag:nepotismo.pavor: 2
+tag:Standard Bank: 2
+tag:línguas: 4
+tag:cac: 2
+tag:leonor figueiredo: 2
+tag:oca: 2
+tag:químicos: 2
+tag:maiombe: 4
+tag:palestinianos: 2
+tag:sérgio piçarra: 2
+tag:história. kauango: 2
+tag:samakuca: 2
+tag:luxos: 6
+tag:Quénia: 5
+tag:falhanço: 13
+tag:colonização. ajuda: 2
+tag:canino: 2
+tag:idolatria: 2
+tag:norberto garcia: 4
+tag:seguidismo: 2
+tag:salário: 2
+tag:bicefalia: 6
+tag:matross: 2
+tag:estadista. regime: 2
+tag:bastidores: 2
+tag:misérias: 2
+tag:democráticas: 2
+tag:elieções: 2
+tag:livres: 2
+tag:peritos: 6
+tag:angola. constituição: 2
+tag:Eleazar Van-Dúnen: 2
+tag:arruaceiro: 2
+tag:ofensas: 2
+tag:LUNAAR: 1
+tag:formandos: 1
+tag:pmetal: 2
+tag:Cremilda de Lima. Áurio Quicunga: 2
+tag:ecnontro: 2
+tag:literatura infantil: 2
+tag:O século: 6
+tag:luanda. lixo: 2
+tag:36 anos: 2
+tag:areia: 2
+tag:desenrascar. sustento: 2
+tag:reparações: 2
+tag:distância: 2
+tag:quantidade: 2
+tag:mecanização: 2
+tag:mpla eleições: 3
+tag:incompatível: 2
+tag:esperar: 2
+tag:desabamento: 2
+tag:deterioração: 2
+tag:estádio 11 de novembro: 2
+tag:manutenção: 2
+tag:califórnia: 2
+tag:Angola Cables: 2
+tag:cabo submarino: 2
+tag:ligação: 2
+tag:discriminação: 2
+tag:belmonte: 2
+tag:malandro: 4
+tag:mpla visita: 2
+tag:messias: 2
+tag:salvador: 2
+tag:desfalque: 2
+tag:José Pedro tonet desculpas: 2
+tag:dino: 2
+tag:fizz: 2
+tag:carenciados: 4
+tag:crónico: 2
+tag:Nacobeta: 2
+tag:artista: 2
+tag:kuduro: 2
+tag:solidariedade. oportunismo: 2
+tag:carteiras: 2
+tag:psquiatria: 2
+tag:sonangol. despedimentos: 2
+tag:slogan: 2
+tag:escolaridade: 2
+tag:planeamento: 2
+tag:poligamia: 2
+tag:eua. trump: 2
+tag:méxico: 2
+tag:bairro neves bendinha: 2
+tag:barulho: 2
+tag:maratona: 2
+tag:tormento: 2
+tag:regressos: 2
+tag:feira: 2
+tag:filsa: 2
+tag:Kulonga: 2
+tag:trienal: 2
+tag:Dsrv: 2
+tag:filomeno: 2
+tag:Freedom House: 4
+tag:Cachimbombo: 2
+tag:"santismo: 1
+tag:flec. cabinda: 2
+tag:reféns: 4
+tag:soldados: 2
+tag:fac: 2
+tag:flec.fac. cabinda: 2
+tag:cabinda. estrangeiros: 2
+tag:electrividade: 1
+tag:mpla sucursal: 2
+tag:doenças negligenciadas: 2
+tag:farmacêuticas: 2
+tag:fragilidades: 2
+tag:magistratura: 2
+tag:vogal: 2
+tag:SINTEJAPGR: 2
+tag:reconversão: 2
+tag:remuneração: 2
+tag:tecnologias: 2
+tag:joão paulo batalha: 6
+tag:centralidades: 2
+tag:ladroagem: 4
+tag:José Maria: 2
+tag:bruxas: 2
+tag:kikongo: 2
+tag:quimbundo: 2
+tag:umbundo: 2
+tag:duo ouro negro: 2
+tag:glórias: 2
+tag:kurikutelas: 2
+tag:saturnino: 2
+tag:sinangol: 4
+tag:suspensão: 2
+tag:bolt: 2
+tag:turbilhão: 2
+tag:sinprof: 2
+tag:Muçulmanos: 4
+tag:islão: 4
+tag:egti: 4
+tag:imobiliária: 2
+tag:fidelidade canina: 2
+tag:1995: 2
+tag:cartilha: 2
+tag:lambição: 2
+tag:memorial: 2
+tag:doenças. sangue: 2
+tag:hepatite: 2
+tag:inferno: 4
+tag:relento: 2
+tag:fora da validade: 2
+tag:hospital do moxico: 2
+tag:utentes: 2
+tag:negligência: 2
+tag:mosaiko: 2
+tag:joãolourenço: 2
+tag:tony neves: 2
+tag:pensar: 2
+tag:gado: 3
+tag:etiópia: 4
+tag:imunizar: 2
+tag:previsão: 2
+tag:esbanjar: 2
+tag:ruína: 2
+tag:nos: 2
+tag:nacionais: 2
+tag:Caioporto: 2
+tag:Jean-Claude Bastos de Morais: 2
+tag:vigaristas: 2
+tag:conselhos: 2
+tag:fes: 2
+tag:jlo: 2
+tag:marimbondos: 2
+tag:imagem. desconhecimento: 2
+tag:Pitta Grós: 2
+tag:exonerar: 2
+tag:nomear: 2
+tag:sebem: 2
+tag:abastecimento luanda: 2
+tag:potável: 2
+tag:angomilhões: 2
+tag:facturação: 2
+tag:totobola: 2
+tag:totoloto: 2
+tag:serviço: 2
+tag:38 anos: 6
+tag:carrasco: 2
+tag:juíza: 2
+tag:rejeição: 2
+tag:casa-ce. validade: 2
+tag:juramento: 2
+tag:afirmação: 2
+tag:Kalaf Epalanga. livro. ficção.lisboa: 2
+tag:escritor. músico: 2
+tag:pol pot: 2
+tag:Kiluanji: 2
+tag:exposições: 2
+tag:metical: 2
+tag:joão de melo: 4
+tag:latrina: 2
+tag:porcaria: 2
+tag:símios: 2
+tag:empresária: 2
+tag:sonangol reacção: 2
+tag:populismo: 2
+tag:imigrante: 2
+tag:exoneração: 2
+tag:igae: 2
+tag:joaquim mande: 2
+tag:moralização: 2
+tag:lindo bernardo tito: 1
+tag:lavandaria: 2
+tag:bilhetes: 2
+tag:ana paula tavares: 2
+tag:ilustradores: 2
+tag:facturas: 2
+tag:escuridão: 2
+tag:fiscais: 2
+tag:filas: 2
+tag:geradores: 2
+tag:deputada: 4
+tag:esforços: 2
+tag:luxúria: 2
+tag:garrote: 2
+tag:publicidade: 2
+tag:mundo. eterno: 2
+tag:único: 4
+tag:malandros: 10
+tag:crianças. unita: 2
+tag:cuango: 2
+tag:oração: 1
+tag:acusados: 2
+tag:agt: 4
+tag:gigante: 2
+tag:pigmeu: 2
+tag:ambulantes: 2
+tag:clientes: 2
+tag:ginguba: 2
+tag:sustento: 2
+tag:mangueira: 2
+tag:serviços prisionais: 2
+tag:terrosismo: 2
+tag:salvador freire. oao: 2
+tag:matcelo: 2
+tag:bênção: 2
+tag:marginal: 4
+tag:palhaçada. votação: 2
+tag:ervanárias: 2
+tag:terapias: 2
+tag:rebanho: 2
+tag:reacções: 4
+tag:sicato: 2
+tag:Jean-Charles Gutner: 2
+tag:fotojornalista: 2
+tag:testemunho: 2
+tag:optimização: 2
+tag:vice-governadores: 2
+tag:mpla. corrupção: 2
+tag:mentir: 2
+tag:victor de carvalho: 2
+tag:conivência: 2
+tag:pressões: 6
+tag:sic. sinfo: 2
+tag:férias: 3
+tag:milhares de mortos: 2
+tag:divisão: 1
+tag:estatutos: 1
+tag:ngonda: 1
+tag:megalomonia: 2
+tag:travesti: 2
+tag:ângelo: 2
+tag:plano alimentar: 2
+tag:heitor: 2
+tag:moco: 2
+tag:figuras 2016: 1
+tag:opiniões: 1
+tag:fertilizantes: 2
+tag:Mahamudo Amurane: 2
+tag:azagaia: 2
+tag:heróis. cobardia: 2
+tag:92 anos: 2
+tag:descolonização: 2
+tag:Kiluanji Kia Henda: 2
+tag:mostra: 2
+tag:democratas: 2
+tag:republicanos: 2
+tag:convites: 1
+tag:falácias: 2
+tag:eleições. resultados: 2
+tag:governos: 4
+tag:cna: 5
+tag:apoiantes: 2
+tag:manaças: 2
+tag:mpa: 2
+tag:balbúrdia: 2
+tag:cadernos eleitorais: 2
+tag:prova de vida: 2
+tag:vendedoras: 2
+tag:diabo: 2
+tag:Rohingyas: 2
+tag:birmânia: 2
+tag:reclamação: 4
+tag:2008: 2
+tag:despedida: 2
+tag:presidentes: 2
+tag:1975: 2
+tag:comandos: 2
+tag:soviéticos: 2
+tag:necessitados: 2
+tag:sarjeta: 4
+tag:Erdrogam: 2
+tag:colégio turco: 2
+tag:vendedores: 2
+tag:confissões: 2
+tag:desgraças: 2
+tag:Ekuikui IV: 2
+tag:cdeao: 2
+tag:Maniel de oliveira: 2
+tag:oni: 2
+tag:decadência: 1
+tag:dissidente: 1
+tag:músicas: 2
+tag:poemas: 2
+tag:bornito: 2
+tag:acolhimento: 2
+tag:campos: 2
+tag:Teodorin obiang: 2
+tag:amor: 4
+tag:dedicação: 2
+tag:companheira: 2
+tag:delicadeza: 2
+tag:irmã: 2
+tag:mãe: 2
+tag:incimpetência: 2
+tag:cegos: 1
+tag:mudos: 1
+tag:surdos: 1
+tag:mpla. regime: 2
+tag:chicago: 1
+tag:comboio: 1
+tag:decretos: 2
+tag:Emílio Odebrecht: 2
+tag:sanitas: 2
+tag:engraxadores: 2
+tag:luvualus: 2
+tag:certezas: 2
+tag:promesas: 2
+tag:exageros: 2
+tag:equidade: 2
+tag:injustiçados: 2
+tag:manobras: 2
+tag:Gobbels: 2
+tag:pólvora: 2
+tag:Januário Domingos: 2
+tag:patologia: 2
+tag:orgia: 2
+tag:Edurado dos santos: 2
+tag:rumores: 4
+tag:angola. generais: 2
+tag:desenrasca: 2
+tag:parabólicas: 2
+tag:cacimbas: 2
+tag:kitumba: 2
+tag:bandoleiros: 2
+tag:chorar: 2
+tag:jornel de angola: 2
+tag:diagnóstico: 2
+tag:discursos: 2
+tag:exonerações. mpla: 2
+tag:conco: 2
+tag:demagogo: 4
+tag:mpla. eleições. regime: 2
+tag:honorários: 2
+tag:sonangol. salários: 2
+tag:bajução: 2
+tag:carneiro: 4
+tag:falcão: 2
+tag:mpla mesmice: 2
+tag:realidade: 2
+tag:palpites: 2
+tag:credores: 2
+tag:Novo redondo: 2
+tag:sumbe: 2
+tag:prisões.ditador: 2
+tag:fantasias. crise: 2
+tag:fim de ano: 2
+tag:candidaturas: 2
+tag:processos: 6
+tag:autoridades: 2
+tag:bonfa: 2
+tag:nvunda tonet: 2
+tag:pau: 2
+tag:paulo catarro: 6
+tag:recompensa: 2
+tag:tacho: 2
+tag:quinze anos: 2
+tag:exílio: 2
+tag:milhoões: 2
+tag:mpla. gozo: 1
+tag:albertina kassoma: 2
+tag:andebol: 2
+tag:estrela: 2
+tag:desmentidos: 2
+tag:razões: 2
+tag:analfabetos: 2
+tag:pinda simão: 2
+tag:apelos: 2
+tag:consução: 2
+tag:notações: 2
+tag:placebo: 2
+tag:abandonados: 2
+tag:angolanos pobres: 2
+tag:mendigos: 2
+tag:ano novo: 2
+tag:incapacidade: 2
+tag:promessas. demagogias: 2
+tag:anedotas. aldrabices: 2
+tag:desentendimentos: 2
+tag:independentes: 2
+tag:podemos-já: 2
+tag:desaparecido: 2
+tag:espancado: 2
+tag:ambrósio: 4
+tag:amiguismo: 2
+tag:descontentamento: 2
+tag:promoções: 2
+tag:espancamentos: 2
+tag:snangol: 2
+tag:camilo ceita: 2
+tag:orlando figueira: 4
+tag:sef: 2
+tag:aep: 2
+tag:boletins: 2
+tag:tempos de antena: 2
+tag:mérito: 4
+tag:Pio Wacussanga: 2
+tag:eleições. igreja católica: 2
+tag:pedro sebastião: 2
+tag:15 anos: 2
+tag:humilhação: 2
+tag:concorrentes: 2
+tag:medicamento: 2
+tag:médico: 2
+tag:oncologia: 2
+tag:operação fizz: 4
+tag:Abel Chivikuvuku: 2
+tag:simprof: 2
+tag:bairros: 2
+tag:fábricas: 2
+tag:pediatrias: 2
+tag:irmãos: 2
+tag:prostíbulo: 2
+tag:extracção: 2
+tag:riquezas angola: 2
+tag:nepostismo: 2
+tag:paraíso: 2
+tag:anc: 2
+tag:zua: 2
+tag:Mossoró: 4
+tag:Renan Inquérito: 2
+tag:província: 2
+tag:segurança social: 2
+tag:temer: 2
+tag:agir: 2
+tag:reagir: 2
+tag:racistas: 2
+tag:cabinda.faa: 2
+tag:abstenção: 4
+tag:empresa pública: 2
+tag:prfessores: 2
+tag:documentos: 3
+tag:regulamento: 2
+tag:Chikoti: 2
+tag:banha da cobra: 4
+tag:renda: 2
+tag:restrição: 2
+tag:pinto balsemão: 2
+tag:cimprimento: 2
+tag:lisura: 2
+tag:compadrio: 2
+tag:desânimo: 2
+tag:mpla. degradação: 2
+tag:rabelais: 2
+tag:buracos: 2
+tag:aldeias: 2
+tag:nascimentos: 2
+tag:parteiras: 2
+tag:palancas: 2
+tag:preservação: 2
+tag:obsevadores: 2
+tag:vidro: 2
+tag:Tchavola: 2
+tag:novamente: 2
+tag:fome. pobres: 2
+tag:marco. história: 2
+tag:rodrigues mingas: 2
+tag:selecção: 2
+tag:libanês: 2
+tag:mossad: 2
+tag:presiente: 2
+tag:processo-crime: 2
+tag:manue vicente: 2
+tag:disfarce: 2
+tag:análises: 2
+tag:sexo: 2
+tag:fraude cne: 2
+tag:multicaixa: 2
+tag:Sodiam: 2
+tag:dokolo: 2
+tag:leite: 2
+tag:potencialidades: 2
+tag:texas: 2
+tag:Global Witness: 2
+tag:sonangol mecanismos: 2
+tag:foa: 1
+tag:ricardo salgo: 1
+tag:tabaco: 4
+tag:aldrabão: 2
+tag:cuito: 2
+tag:sonangol. sonair: 2
+tag:televisão digital: 2
+tag:faro: 2
+tag:rui rio: 2
+tag:sá carneiro: 2
+tag:feministas: 2
+tag:rectidão: 2
+tag:bbc: 2
+tag:entrevistas: 4
+tag:paizinho: 2
+tag:praias: 2
+tag:boçais: 2
+tag:Sílvio Burity: 2
+tag:parecer: 2
+tag:ser: 2
+tag:sério: 2
+tag:fantasmas: 2
+tag:fiscalização: 2
+tag:luemba: 2
+tag:César Paxi: 2
+tag:laúca cambambe: 2
+tag:unauguração: 2
+tag:violação. partidocracia: 2
+tag:Manuel aragão: 2
+tag:separação de poderes: 2
+tag:esmolas: 2
+tag:irregularidades. manipulação: 2
+tag:reclamações: 2
+tag:santos: 2
+tag:silva: 2
+tag:burkina faso. votação: 2
+tag:tumultos: 2
+tag:inlfação: 2
+tag:mais do mesmo: 4
+tag:ongs: 2
+tag:diana: 4
+tag:desfavorecidos: 2
+tag:lentilhas: 2
+tag:tapa: 2
+tag:sakala: 2
+tag:dala: 2
+tag:esclarecimento: 2
+tag:honra: 2
+tag:ficheiro: 1
+tag:adalberto: 2
+tag:donativos: 2
+tag:kafunfu: 2
+tag:lunda: 2
+tag:tup: 2
+tag:ameças: 2
+tag:zécutivo: 2
+tag:andedotas: 2
+tag:manuel clemente: 2
+tag:antónio rineiro: 2
+tag:notícias lusófonas: 2
+tag:penina: 2
+tag:milionátios: 2
+tag:75 anos: 2
+tag:consciência: 2
+tag:rádio f8: 2
+tag:declaração: 2
+tag:jurista: 2
+tag:patriota: 2
+tag:eleições.purga: 2
+tag:xeque-mate: 2
+tag:comadres: 2
+tag:suma: 2
+tag:cata-ventos: 2
+tag:engodo: 2
+tag:anual: 2
+tag:matumbez: 2
+tag:tv8: 2
+tag:abertura: 2
+tag:depreciação: 2
+tag:Dixtior: 2
+tag:empresa: 6
+tag:patceiros: 2
+tag:esquadrão da morte: 2
+tag:estafetas: 2
+tag:velocidade: 2
+tag:exonerações. dos santos: 2
+tag:formalismo: 2
+tag:participações: 2
+tag:estratégias: 2
+tag:planeta: 2
+tag:pnu: 2
+tag:programas: 2
+tag:semba: 4
+tag:Mbanza Congo. património: 2
+tag:indústrias: 2
