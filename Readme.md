@@ -1,5 +1,4 @@
 #Exercícios
-#Exercícios
 ##1.Calcular quantas publicações
 ##2.Extrair lista das tags
 ##3.Extrair número das tags e de ocorrências das respectivas tags
